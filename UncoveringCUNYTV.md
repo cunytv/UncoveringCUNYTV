@@ -23,14 +23,14 @@ The City University of New York (CUNY) is the largest university network in the 
 
 | Institution | CUNY TV Program  | Formats | # of Tapes 
 | ----------- | ----------- | ------- | ----------- 
-| [Baruch College](/baruch.pdf) | Baruch College Specials | U-matic, Betacam SP, DVCam | 200 
-| [Baruch College](/baruchcc.pdf) | City Club | U-matic, Betacam SP, DVCam | 240 
-| [John Jay College](/johnjay.pdf) | Criminal Justice CloseUp | U-matic, Betacam SP, VHS | 180 
+| [Baruch College](Collections/baruch.pdf) | Baruch College Specials | U-matic, Betacam SP, DVCam | 200 
+| [Baruch College](Collections/baruchcc.pdf) | City Club | U-matic, Betacam SP, DVCam | 240 
+| [John Jay College](Collections/johnjay.pdf) | Criminal Justice CloseUp | U-matic, Betacam SP, VHS | 180 
 | [Centro de Estudios Puertoriqueños at Hunter College](/hunter.pdf)| HoMoVisiones | VHS | 283 
 | [Centro de Estudios Puertoriqueños at Hunter College](/hunter.pdf) | Politics con Sabor | MiniDV | 108 
 | [Centro de Estudios Puertoriqueños at Hunter College](/hunter.pdf)| Centro Records | VHS | 63 
-| [College of Staten Island](/staten.pdf) | Cinema Then, Cinema Now | U-matic, Betacam SP | 180 
-| [Bronx Community College](/bronx.pdf) | Hall of Fame for Great Americans | VHS, 1/4" audio magnetic tape | 30 
+| [College of Staten Island](Collections/staten.pdf) | Cinema Then, Cinema Now | U-matic, Betacam SP | 180 
+| [Bronx Community College](Collections/bronx.pdf) | Hall of Fame for Great Americans | VHS, 1/4" audio magnetic tape | 30 
 |||Total|1284
 
 ## <a name="plan">Project Plan</a>  
@@ -39,7 +39,7 @@ The City University of New York (CUNY) is the largest university network in the 
 
 The Gantt chart below visulizes the 18 month timeline. Collections will be completed self-contained cycles, tasks that include cataloging, digitization, ingest, captioning, and upload. The length of time estimated is informed by the number of tapes in the collections. Outreach efforts will officially begin February 2021 after the first cycle is complete and will be engaged on a weekly basis via social media, press releases, newsletters, listvs, blog posts, and person-to-person contact. The timeline also indicates semesters where a student intern will assist the efforts. 
 
-<img src="/cuny_clir_plan_10.06.2020.png" width="100%" height="100%">
+<img src="ProjectDocumentation/cuny_clir_plan_10.06.2020.png" width="100%" height="100%">
 
 ### Workflows and Guidelines
 
@@ -70,8 +70,8 @@ Ellen Belcher, Associate Professor and Special Collections Librarian, John Jay C
  
 ## <a name="app">Appendices</a></p>
 
-<a href="clir app 2019 2nd Round.pdf">CLIR 2020 Proposal</a><br>
-<a href="Rights, Ethics and Re-use Statement September 2019.pdf">Rights, Ethics, and ReUse Statement</a>
+<a href="Appendices/clir app 2019 2nd Round.pdf">CLIR 2020 Proposal</a><br>
+<a href="Appendices/Rights, Ethics and Re-use Statement September 2019.pdf">Rights, Ethics, and ReUse Statement</a>
 
 <p>
  
