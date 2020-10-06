@@ -23,14 +23,14 @@ The City University of New York (CUNY) is the largest university network in the 
 
 | Institution | CUNY TV Program  | Formats | # of Tapes 
 | ----------- | ----------- | ------- | ----------- 
-| [Baruch College](/baruch.pdf) | Baruch College Specials | U-matic, Betacam SP, DVCam | 200 
-| [Baruch College](/baruchcc.pdf) | City Club | U-matic, Betacam SP, DVCam | 240 
-| [John Jay College](/johnjay.pdf) | Criminal Justice CloseUp | U-matic, Betacam SP, VHS | 180 
+| [Baruch College](Collections/baruch.pdf) | Baruch College Specials | U-matic, Betacam SP, DVCam | 200 
+| [Baruch College](Collections/baruchcc.pdf) | City Club | U-matic, Betacam SP, DVCam | 240 
+| [John Jay College](Collections/johnjay.pdf) | Criminal Justice CloseUp | U-matic, Betacam SP, VHS | 180 
 | [Centro de Estudios Puertoriqueños at Hunter College](/hunter.pdf)| HoMoVisiones | VHS | 283 
 | [Centro de Estudios Puertoriqueños at Hunter College](/hunter.pdf) | Politics con Sabor | MiniDV | 108 
 | [Centro de Estudios Puertoriqueños at Hunter College](/hunter.pdf)| Centro Records | VHS | 63 
-| [College of Staten Island](/staten.pdf) | Cinema Then, Cinema Now | U-matic, Betacam SP | 180 
-| [Bronx Community College](/bronx.pdf) | Hall of Fame for Great Americans | VHS, 1/4" audio magnetic tape | 30 
+| [College of Staten Island](Collections/staten.pdf) | Cinema Then, Cinema Now | U-matic, Betacam SP | 180 
+| [Bronx Community College](Collections/bronx.pdf) | Hall of Fame for Great Americans | VHS, 1/4" audio magnetic tape | 30 
 |||Total|1284
 
 ## <a name="plan">Project Plan</a>  
