@@ -23,8 +23,8 @@ The City University of New York (CUNY) is the largest university network in the 
 
 | Institution | CUNY TV Program  | Formats | # of Tapes 
 | ----------- | ----------- | ------- | ----------- 
-| Baruch College | Baruch College Specials | U-matic, Betacam SP, DVCam | 200 
-| Baruch College | City Club | U-matic, Betacam SP, DVCam | 240 
+| [Baruch College](/baruch.pdf) | Baruch College Specials | U-matic, Betacam SP, DVCam | 200 
+| [Baruch College](/baruch.pdf) | City Club | U-matic, Betacam SP, DVCam | 240 
 | John Jay College | Criminal Justice CloseUp | U-matic, Betacam SP, VHS | 180 
 | Centro de Estudios Puertoriqueños at Hunter College | HoMoVisiones | VHS | 283 
 | Centro de Estudios Puertoriqueños at Hunter College | Politics con Sabor | MiniDV | 108 
