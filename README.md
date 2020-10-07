@@ -37,7 +37,7 @@ The City University of New York (CUNY) is the largest university network in the 
 
 ### Timeline
 
-The Gantt chart below visulizes the 18 month timeline. Collections will be completed self-contained cycles, tasks that include cataloging, digitization, ingest, captioning, and upload. The length of time estimated is informed by the number of tapes in the collections. Outreach efforts will officially begin February 2021 after the first cycle is complete and will be engaged on a weekly basis via social media, press releases, newsletters, listvs, blog posts, and person-to-person contact. The timeline also indicates semesters where a student intern will assist the efforts. 
+The Gantt chart below visualizes the 18 month timeline (9/1/2020 - 2/28/2022). Collections will be completed self-contained cycles comprised of such tasks as cataloging, digitization, ingest, captioning, and public access. The length of time estimated is informed by the number of tapes in the collection. Outreach efforts will officially begin February 2021 after the first cycle is complete and will be engaged on a weekly basis via social media, press releases, newsletters, listervs, blog posts, and person-to-person contact. The timeline also indicates semesters where a student intern will assist the efforts. 
 
 <img src="ProjectDocumentation/cuny_clir_plan_10.06.2020.png" width="100%" height="100%">
 
