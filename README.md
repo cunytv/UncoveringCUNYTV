@@ -47,7 +47,7 @@ Documentation on captioning, digitization, access, and outreach will be posted h
 
 ## <a name="month">Monthly Reports</a>
 
-<a href="/MonthlyReports/Sept2020.pdf">September 2020</a>
+<a href="/MonthlyReports/2020Sept.pdf">September 2020</a>
 
 ## <a name="cred">Credits </a>
 
