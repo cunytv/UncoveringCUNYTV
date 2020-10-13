@@ -18,7 +18,7 @@ Funding for project was awarded by the _Digitizing Hidden Special Collections an
 
 ## <a name="coll">Collections Uncovered</a>
 
-The City University of New York (CUNY) is the largest university network in the country with over two dozen schools in every one of New York City's five boroughs. The chart below lists the five the schools partnering with this project, and CUNY TV collections they manage. Each collection is comprised of a series that aired on CUNY TV between the 1980s and early 2000, but only available on an obsolete videotape(or audiotape) format. Collectively, the content tells the story of New York City as it grapples with public policy and social justice in a delicate era just before, and just after, 9/11. Clicking through each institution will reveal a one-page description of the collections in their care. 
+The City University of New York (CUNY) is the largest university network in the country with over two dozen schools in every one of New York City's five boroughs. The chart below lists the five the schools partnering with this project, and CUNY TV collections they manage. Each collection is comprised of a series that aired on public television between the 1980s and early 2000, but only available on an obsolete videotape(or audiotape) format. Collectively, the content tells the story of New York City as it grapples with public policy and social justice in a delicate era just before, and just after, 9/11. Clicking through each institution will reveal a one-page description of the collections in their care. 
 
 
 | Institution | CUNY TV Program  | Formats | # of Tapes 
