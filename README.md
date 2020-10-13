@@ -1,12 +1,12 @@
 
 <h1>Uncovering CUNY TV's Audiovisual Heritage</h1>
 
-| [Project Overview](#about)| [Project Plan](#plan)| [Collections Uncovered](#coll) | [Monthly Reports](#month) | [Latest News](#news)  | [Credits](#cred) | [Appendices](#app)   
-| ----------- | ----------- | ------- | ----------- | --------------------- | ---------------------| ---------------------
+| [Project Overview](#about)| [Project Plan](#plan)| [Collections Uncovered](#coll) | [Monthly Reports](#month) | [Credits](#cred) | [Appendices](#app)   
+| ----------- | ----------- | ----------- | ----------- | --------------------- | ---------------------| 
 
 <hr>
 
-:zap: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: 
+:vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: 
  
  <p>As of 10/6/2020: 8 tapes digitized; 0 captioned; 0 uploaded; %0.5 complete!* </p>
 
@@ -18,7 +18,7 @@ Funding for project was awarded by the _Digitizing Hidden Special Collections an
 
 ## <a name="coll">Collections Uncovered</a>
 
-The City University of New York (CUNY) is the largest university network in the country with over two dozen schools in every one of New York City's five boroughs. The chart below lists the five the schools partnering with this project, and CUNY TV collections they manage. Each collection is comprised of a series that aired on CUNY TV between the 1980s and early 2000, but only available on an obsolete videotape(or audiotape) format. Collectively, the content tells the story of New York City as it grapples with public policy and social justice in a delicate era just before, and just after, 9/11. Clicking through each institution will reveal a one-page description of the collections in their care. 
+The City University of New York (CUNY) is the largest university network in the country with over two dozen schools in every one of New York City's five boroughs. The chart below lists the five the schools partnering with this project, and CUNY TV collections they manage. Each collection is comprised of a series that aired on public television between the 1980s and early 2000, but only available on an obsolete videotape(or audiotape) format. Collectively, the content tells the story of New York City as it grapples with public policy and social justice in a delicate era just before, and just after, 9/11. Clicking through each institution will reveal a one-page description of the collections in their care. 
 
 
 | Institution | CUNY TV Program  | Formats | # of Tapes 
@@ -26,9 +26,9 @@ The City University of New York (CUNY) is the largest university network in the 
 | [Baruch College](Collections/baruch.pdf) | Baruch College Specials | U-matic, Betacam SP, DVCam | 200 
 | [Baruch College](Collections/baruchcc.pdf) | City Club | U-matic, Betacam SP, DVCam | 240 
 | [John Jay College](Collections/johnjay.pdf) | Criminal Justice CloseUp | U-matic, Betacam SP, VHS | 180 
-| [Centro de Estudios Puertoriqueños at Hunter College](/hunter.pdf)| HoMoVisiones | VHS | 283 
-| [Centro de Estudios Puertoriqueños at Hunter College](/hunter.pdf) | Politics con Sabor | MiniDV | 108 
-| [Centro de Estudios Puertoriqueños at Hunter College](/hunter.pdf)| Centro Records | VHS | 63 
+| [Centro de Estudios Puertoriqueños at Hunter College](Collections/hunter.pdf)| HoMoVisiones | VHS | 283 
+| [Centro de Estudios Puertoriqueños at Hunter College](Collections/hunter.pdf) | Politics con Sabor | MiniDV | 108 
+| [Centro de Estudios Puertoriqueños at Hunter College](Collections/hunter.pdf)| Centro Records | VHS | 63 
 | [College of Staten Island](Collections/staten.pdf) | Cinema Then, Cinema Now | U-matic, Betacam SP | 180 
 | [Bronx Community College](Collections/bronx.pdf) | Hall of Fame for Great Americans | VHS, 1/4" audio magnetic tape | 30 
 |||Total|1284
@@ -47,7 +47,7 @@ Documentation on captioning, digitization, access, and outreach will be posted h
 
 ## <a name="month">Monthly Reports</a>
 
-under construction
+<a href="/MonthlyReports/2020Sept.pdf">September 2020</a>
 
 ## <a name="cred">Credits </a>
 
@@ -70,8 +70,8 @@ Ellen Belcher, Associate Professor and Special Collections Librarian, John Jay C
  
 ## <a name="app">Appendices</a></p>
 
-<a href="Appendices/clir app 2019 2nd Round.pdf">CLIR 2020 Proposal</a><br>
-<a href="Appendices/Rights, Ethics and Re-use Statement September 2019.pdf">Rights, Ethics, and ReUse Statement</a>
+<a href="Appendices/2019_CLIR_CUNY_2ndRound.pdf">CLIR 2020 Proposal</a><br>
+<a href="Appendices/2019_CLIR_CUNY_RightsResuse.pdf">Rights, Ethics, and Reuse Statement</a>
 
 <p>
  
