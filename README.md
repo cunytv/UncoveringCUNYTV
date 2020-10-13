@@ -1,7 +1,7 @@
 
 <h1>Uncovering CUNY TV's Audiovisual Heritage</h1>
 
-| [Project Overview](#about)| [Project Plan](#plan)| [Collections Uncovered](#coll) | [Monthly Reports](#month) | [Latest News](#news)  | [Credits](#cred) | [Appendices](#app)   
+| [Project Overview](#about)| [Project Plan](#plan)| [Collections Uncovered](#coll) | [Monthly Reports](#month) | [Credits](#cred) | [Appendices](#app)   
 | ----------- | ----------- | ------- | ----------- | --------------------- | ---------------------| ---------------------
 
 <hr>
