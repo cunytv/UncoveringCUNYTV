@@ -70,8 +70,8 @@ Ellen Belcher, Associate Professor and Special Collections Librarian, John Jay C
  
 ## <a name="app">Appendices</a></p>
 
-<a href="Appendices/clir app 2019 2nd Round.pdf">CLIR 2020 Proposal</a><br>
-<a href="Appendices/Rights, Ethics and Re-use Statement September 2019.pdf">Rights, Ethics, and ReUse Statement</a>
+<a href="Appendices/2019_CLIR_CUNY_2ndRound.pdf">CLIR 2020 Proposal</a><br>
+<a href="Appendices/2019_CLIR_CUNY_RightsResuse.pdf">Rights, Ethics, and ReUse Statement</a>
 
 <p>
  
