@@ -6,9 +6,9 @@
 
 <hr>
 
-:zap: :zap: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: 
+:zap: :zap: :zap: :zap: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: 
  
- <p>As of 10/14/2020: 87 tapes digitized; 0 captioned; 0 uploaded </p>
+ <p>As of 10/29/2020: 145 tapes digitized; 12 captioned; 0 uploaded </p>
 
 ## <a name="about"> Project Overview </a>
 
