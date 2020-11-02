@@ -74,6 +74,8 @@ Ellen Belcher, Associate Professor and Special Collections Librarian, John Jay C
 
 <a href="Appendices/2019_CLIR_CUNY_2ndRound.pdf">CLIR 2020 Proposal</a><br>
 <a href="Appendices/2019_CLIR_CUNY_RightsResuse.pdf">Rights, Ethics, and Reuse Statement</a>
+<a href="Appendices/2020_CUNYTV_ERF_Narrative.pdf">2020 Emergency Relief Fund Narrative</a><br>
+<a href="Appendices/2020_CUNYTV_ERF_Budget.xlsx">2020 Emergency Relief Fund Bundget</a><br>
 
 <p>
  
