@@ -6,9 +6,9 @@
 
 <hr>
 
-:vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: 
+:zap: :zap: :zap: :zap: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: 
  
- <p>As of 10/6/2020: 8 tapes digitized; 0 captioned; 0 uploaded; %0.5 complete!* </p>
+ <p>As of 10/29/2020: 145 tapes digitized; 12 captioned; 0 uploaded </p>
 
 ## <a name="about"> Project Overview </a>
 
@@ -37,7 +37,7 @@ The City University of New York (CUNY) is the largest university network in the 
 
 ### Timeline
 
-The Gantt chart below visulizes the 18 month timeline. Collections will be completed self-contained cycles, tasks that include cataloging, digitization, ingest, captioning, and upload. The length of time estimated is informed by the number of tapes in the collections. Outreach efforts will officially begin February 2021 after the first cycle is complete and will be engaged on a weekly basis via social media, press releases, newsletters, listvs, blog posts, and person-to-person contact. The timeline also indicates semesters where a student intern will assist the efforts. 
+The Gantt chart below visualizes the 18 month timeline (9/1/2020 - 2/28/2022). Collections will be completed self-contained cycles comprised of such tasks as cataloging, digitization, ingest, captioning, and public access. The length of time estimated is informed by the number of tapes in the collection. Outreach efforts will officially begin February 2021 after the first cycle is complete and will be engaged on a weekly basis via social media, press releases, newsletters, listervs, blog posts, and person-to-person contact. The timeline also indicates semesters where a student intern will assist the efforts. 
 
 <img src="ProjectDocumentation/cuny_clir_plan_10.06.2020.png" width="100%" height="100%">
 
@@ -48,6 +48,8 @@ Documentation on captioning, digitization, access, and outreach will be posted h
 ## <a name="month">Monthly Reports</a>
 
 <a href="/MonthlyReports/2020Sept.pdf">September 2020</a>
+
+<a href="/MonthlyReports/2020Oct.pdf">October 2020</a>
 
 ## <a name="cred">Credits </a>
 
@@ -70,8 +72,11 @@ Ellen Belcher, Associate Professor and Special Collections Librarian, John Jay C
  
 ## <a name="app">Appendices</a></p>
 
-<a href="Appendices/2019_CLIR_CUNY_2ndRound.pdf">CLIR 2020 Proposal</a><br>
-<a href="Appendices/2019_CLIR_CUNY_RightsResuse.pdf">Rights, Ethics, and Reuse Statement</a>
+<a href="Appendices/2019_CLIR_CUNY_2ndRound.pdf">CLIR 2019 Proposal</a><br>
+<a href="Appendices/2019_CLIR_CUNY_2ndRoundBudget.xlsx"> CLIR 2019 Budget</a><br>
+<a href="Appendices/2019_CLIR_CUNY_RightsResuse.pdf">Rights, Ethics, and Reuse Statement</a><br>
+<a href="Appendices/2020_CUNYTV_ERF_Narrative.pdf">2020 Emergency Relief Fund Narrative</a><br>
+<a href="Appendices/2020_CUNYTV_ERF_Budget.xlsx">2020 Emergency Relief Fund Budget</a><br>
 
 <p>
  
