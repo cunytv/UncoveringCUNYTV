@@ -51,6 +51,8 @@ Documentation on captioning, digitization, access, and outreach will be posted h
 
 <a href="/MonthlyReports/2020Oct.pdf">October 2020</a>
 
+<a href="/MonthlyReports/2020Nov.pdf">November 2020</a>
+
 ## <a name="cred">Credits </a>
 
 _CUNY TV_ <p>
