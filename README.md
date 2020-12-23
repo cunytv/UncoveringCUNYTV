@@ -12,7 +12,7 @@
 
 ## <a name="about"> Project Overview </a>
 
-"Uncovering CUNY's Audiovisual Heritage" aims to digitize, preserve, caption, and make accessible nearly 1300 videotape recordings from CUNY TV's 35 year history. 
+"Uncovering CUNY's Audiovisual Heritage" aims to digitize, preserve, caption, and make accessible nearly 1300 public television programs found in archival collections across the CUNY network. 
 
 Funding for project was awarded by the _Digitizing Hidden Special Collections and Archives: Enabling New Scholarship through Increasing Access to Unique Materials_, a national grant competition administered by the Council on Library and Information Resources (CLIR). The initial proposal can be accessed as an [appendix](#app). 
 
