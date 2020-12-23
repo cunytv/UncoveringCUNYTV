@@ -56,7 +56,7 @@ Documentation on captioning, digitization, access, and outreach will be posted h
 ## <a name="cred">Credits </a>
 
 _CUNY TV_ <p>
-Kelly Haydon, Collections Coordinator, Uncovering CUNY TV'S Audiovisual Heritage<br>
+Kelly Haydon, Collections Coordinator, Uncovering CUNY'S Audiovisual Heritage<br>
 David Rice, Director of Archives<br>
 Catriona Schlosser, Archivist<br>
  </p>
