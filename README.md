@@ -6,9 +6,9 @@
 
 <hr>
 
-:zap: :zap: :zap: :zap: :zap: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: 
+:zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: 
  
- <p>As of 12/07/2020: 200 tapes digitized; 75 auto-captioned; 0 uploaded </p>
+ <p>As of 12/07/2020: 266 assets digitized; 9 uploaded </p>
 
 ## <a name="about"> Project Overview </a>
 
@@ -53,12 +53,15 @@ Documentation on captioning, digitization, access, and outreach will be posted h
 
 <a href="/MonthlyReports/2020Nov.pdf">November 2020</a>
 
+<a href="/MonthlyReports/2020Dec.pdf">Decemeber 2020, January 2021</a>
+
 ## <a name="cred">Credits </a>
 
 _CUNY TV_ <p>
 Kelly Haydon, Collections Coordinator, Uncovering CUNY'S Audiovisual Heritage<br>
 David Rice, Director of Archives<br>
 Catriona Schlosser, Archivist<br>
+Eric Silberberg, Spring 2021 Intern
  </p>
 <p>
 
