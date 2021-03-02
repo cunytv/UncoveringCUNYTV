@@ -6,9 +6,9 @@
 
 <hr>
 
-:zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: 
+:zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: 
  
- <p>As of 2/01/2021: 266 assets digitized; 9 uploaded </p>
+ <p>As of 2/01/2021: 329 assets digitized; 27 captioned; 9 uploaded </p>
 
 ## <a name="about"> Project Overview </a>
 
@@ -55,6 +55,8 @@ Documentation on captioning, digitization, access, and outreach will be posted h
 
 <a href="/MonthlyReports/2020Dec.pdf">Decemeber 2020, January 2021</a>
 
+<a href="/MonthlyReports/2021Feb.pdf">February 2021</a>
+
 ## <a name="cred">Credits </a>
 
 _CUNY TV_ <p>
@@ -79,6 +81,7 @@ Ellen Belcher, Associate Professor and Special Collections Librarian, John Jay C
 
 <a href="Appendices/2019_CLIR_CUNY_2ndRound.pdf">CLIR 2019 Proposal</a><br>
 <a href="Appendices/2019_CLIR_CUNY_2ndRoundBudget.xlsx"> CLIR 2019 Budget</a><br>
+<a href="Appendices/2019_CLIR_CityClubInventory.pdf"> City Club Inventory </a><br>
 <a href="Appendices/2019_CLIR_CUNY_RightsResuse.pdf">Rights, Ethics, and Reuse Statement</a><br>
 <a href="Appendices/2020_CUNYTV_ERF_Narrative.pdf">2020 Emergency Relief Fund Narrative</a><br>
 <a href="Appendices/2020_CUNYTV_ERF_Budget.xlsx">2020 Emergency Relief Fund Budget</a><br>
