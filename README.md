@@ -31,7 +31,8 @@ The City University of New York (CUNY) is the largest university network in the 
 | [Centro de Estudios Puertoriqueños at Hunter College](Collections/hunter.pdf)| Centro Records | VHS | 63 
 | [College of Staten Island](Collections/staten.pdf) | Cinema Then, Cinema Now | U-matic, Betacam SP | 173 | <a href="https://www.youtube.com/playlist?list=PLRqOW3sjwjhPFrX88ARrTYd7axdxPdipJ">Link </a>
 | [Bronx Community College](Collections/bronx.pdf) | Hall of Fame for Great Americans | VHS, 1/4" audio magnetic tape | 30 
-|||Total|1277
+| [Medgar Evers College](Collections/mec.pdf) | Charles Evans Inniss Memorial Library | U-Matic | 10 
+|||Total|1287
 
 ## <a name="plan">Project Plan</a>  
 
