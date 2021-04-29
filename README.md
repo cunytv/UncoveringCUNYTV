@@ -29,9 +29,9 @@ The City University of New York (CUNY) is the largest university network in the 
 | [Centro de Estudios Puertoriqueños at Hunter College](Collections/hunter.pdf)| HoMoVisiones | VHS | 283 
 | [Centro de Estudios Puertoriqueños at Hunter College](Collections/hunter.pdf) | Politics con Sabor | MiniDV | 108 
 | [Centro de Estudios Puertoriqueños at Hunter College](Collections/hunter.pdf)| Centro Records | VHS | 63 
-| [College of Staten Island](Collections/staten.pdf) | Cinema Then, Cinema Now | U-matic, Betacam SP | 173 
+| [College of Staten Island](Collections/staten.pdf) | Cinema Then, Cinema Now | U-matic, Betacam SP | 173 | <a href="https://www.youtube.com/playlist?list=PLRqOW3sjwjhPFrX88ARrTYd7axdxPdipJ">Link </a>
 | [Bronx Community College](Collections/bronx.pdf) | Hall of Fame for Great Americans | VHS, 1/4" audio magnetic tape | 30 
-|||Total|1284
+|||Total|1277
 
 ## <a name="plan">Project Plan</a>  
 
@@ -56,6 +56,10 @@ Documentation on captioning, digitization, access, and outreach will be posted h
 <a href="/MonthlyReports/2020Dec.pdf">Decemeber 2020, January 2021</a>
 
 <a href="/MonthlyReports/2021Feb.pdf">February 2021</a>
+
+<a href="/MonthlyReports/2021Mar.pdf">March 2021</a>
+
+<a href="/MonthlyReports/2021Apr.pdf">April 2021</a>
 
 ## <a name="cred">Credits </a>
 
