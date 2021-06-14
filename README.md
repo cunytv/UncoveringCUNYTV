@@ -6,15 +6,17 @@
 
 <hr>
 
-:zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: 
+:zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: 
  
- <p>As of 4/29/2021: 428 assets digitized (470 tapes); 38 assets captioned; 28 uploaded </p>
+ <p>As of 6/14/2021: 465 assets digitized (518 tapes); 34 assets captioned; 34 uploaded </p>
 
 ## <a name="about"> Project Overview </a>
 
 "Uncovering CUNY's Audiovisual Heritage" aims to digitize, preserve, caption, and make accessible nearly 1300 public television programs found in archival collections across the CUNY network. 
 
 Funding for project was awarded by the _Digitizing Hidden Special Collections and Archives: Enabling New Scholarship through Increasing Access to Unique Materials_, a national grant competition administered by the Council on Library and Information Resources (CLIR). The initial proposal can be accessed as an [appendix](#app). 
+
+The project can also be followed on [Twitter](https://twitter.com/hashtag/uncoveringcuny) and [Instagram](https://www.instagram.com/explore/tags/uncoveringcuny/) via the [#UncoveringCUNY](https://twitter.com/hashtag/uncoveringcuny) hashtag. 
 
 ## <a name="coll">Collections Uncovered</a>
 
