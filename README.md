@@ -33,7 +33,7 @@ The City University of New York (CUNY) is the largest university network in the 
 | [Centro de Estudios Puertoriqueños at Hunter College](Collections/hunter.pdf)| Centro Records | VHS | 63 
 | [College of Staten Island](Collections/staten.pdf) | Cinema Then, Cinema Now | U-matic, Betacam SP | 160 | <a href="https://www.youtube.com/playlist?list=PLRqOW3sjwjhPFrX88ARrTYd7axdxPdipJ">Link </a>
 | [Bronx Community College](Collections/bronx.pdf) | Hall of Fame for Great Americans | VHS, 1/4" audio magnetic tape | 30 
-| [Medgar Evers College](Collections/medgar.pdf) | Medgar Evers College Archives | U-Mati | 10 
+| [Medgar Evers College](Collections/medgar.pdf) | Medgar Evers College Archives | U-Matic | 10 
 |||Total|1288
 
 ## <a name="plan">Project Plan</a>  
@@ -71,6 +71,7 @@ Kelly Haydon, Collections Coordinator, Uncovering CUNY'S Audiovisual Heritage<br
 David Rice, Director of Archives<br>
 Catriona Schlosser, Archivist<br>
 Eric Silberberg, Spring 2021 Intern
+Aida Garrido, Summer 2021 Intern
 </p>
 <p>
 
