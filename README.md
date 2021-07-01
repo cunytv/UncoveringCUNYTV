@@ -6,9 +6,9 @@
 
 <hr>
 
-:zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: 
+:zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: 
  
- <p>As of 6/14/2021: 467 assets digitized (539 tapes); 46 assets captioned; 34 uploaded </p>
+ <p>As of 6/30/2021: 512 assets digitized (584 tapes); 48 assets captioned; 34 uploaded </p>
 
 ## <a name="about"> Project Overview </a>
 
@@ -63,6 +63,10 @@ Documentation on captioning, digitization, access, and outreach will be posted h
 <a href="/MonthlyReports/2021March.pdf">March 2021</a>
 
 <a href="/MonthlyReports/2021Apr.pdf">April 2021</a>
+
+<a href="/MonthlyReports/2021May.pdf">May 2021</a>
+
+<a href="/MonthlyReports/2021June.pdf">June 2021</a>
 
 ## <a name="cred">Credits </a>
 
