@@ -87,6 +87,7 @@ Cynthia Tobar, Assistant Professor/Head of Archives, Bronx Community College<br>
 Lindsay Wittwer, Digital Archivist, Centro de Estudios Puertoriqueños at Hunter College<br>
 Jerry Carlson, Host of _Cinema Then, Cinema Now_ and <br>
 Ellen Belcher, Associate Professor and Special Collections Librarian, John Jay College<br>
+Tom Gubernat, Media Archive Technician, Charles Evans Inniss Memorial Library, Medgar Evers College
 <p>
  
 ## <a name="app">Appendices</a></p>
