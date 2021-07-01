@@ -6,9 +6,9 @@
 
 <hr>
 
-:zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: 
+:zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: 
  
- <p>As of 6/14/2021: 467 assets digitized (539 tapes); 46 assets captioned; 34 uploaded </p>
+ <p>As of 6/30/2021: 512 assets digitized (584 tapes); 48 assets captioned; 34 uploaded </p>
 
 ## <a name="about"> Project Overview </a>
 
@@ -25,15 +25,16 @@ The City University of New York (CUNY) is the largest university network in the 
 
 | Institution | CUNY TV Program  | Formats | # of Tapes | YouTube Playlist
 | ----------- | ----------- | ------- | ----------- | ----- 
-| [Baruch College](Collections/baruch.pdf) | Baruch College Specials | U-matic, Betacam SP, DVCam | 200 | <a href="https://www.youtube.com/playlist?list=PLRqOW3sjwjhO296DyaxZlyIFSTSMh-w_g">Link </a>
+| [Baruch College](Collections/baruch.pdf) | Baruch College Special | U-matic, Betacam SP, DVCam | 214 | <a href="https://www.youtube.com/playlist?list=PLRqOW3sjwjhO296DyaxZlyIFSTSMh-w_g">Link </a>
 | [Baruch College](Collections/baruchcc.pdf) | City Club | U-matic, Betacam SP, DVCam | 240 
 | [John Jay College](Collections/johnjay.pdf) | Criminal Justice CloseUp | U-matic, Betacam SP, VHS | 180 
 | [Centro de Estudios Puertoriqueños at Hunter College](Collections/hunter.pdf)| HoMoVisiones | VHS | 283 
 | [Centro de Estudios Puertoriqueños at Hunter College](Collections/hunter.pdf) | Politics con Sabor | MiniDV | 108 
 | [Centro de Estudios Puertoriqueños at Hunter College](Collections/hunter.pdf)| Centro Records | VHS | 63 
-| [College of Staten Island](Collections/staten.pdf) | Cinema Then, Cinema Now | U-matic, Betacam SP | 173 | <a href="https://www.youtube.com/playlist?list=PLRqOW3sjwjhPFrX88ARrTYd7axdxPdipJ">Link </a>
+| [College of Staten Island](Collections/staten.pdf) | Cinema Then, Cinema Now | U-matic, Betacam SP | 160 | <a href="https://www.youtube.com/playlist?list=PLRqOW3sjwjhPFrX88ARrTYd7axdxPdipJ">Link </a>
 | [Bronx Community College](Collections/bronx.pdf) | Hall of Fame for Great Americans | VHS, 1/4" audio magnetic tape | 30 
-|||Total|1277
+| [Medgar Evers College](Collections/medgar.pdf) | Medgar Evers College Archives | U-Matic | 10 
+|||Total|1288
 
 ## <a name="plan">Project Plan</a>  
 
@@ -63,6 +64,10 @@ Documentation on captioning, digitization, access, and outreach will be posted h
 
 <a href="/MonthlyReports/2021Apr.pdf">April 2021</a>
 
+<a href="/MonthlyReports/2021May.pdf">May 2021</a>
+
+<a href="/MonthlyReports/2021June.pdf">June 2021</a>
+
 ## <a name="cred">Credits </a>
 
 _CUNY TV_ <p>
@@ -70,6 +75,7 @@ Kelly Haydon, Collections Coordinator, Uncovering CUNY'S Audiovisual Heritage<br
 David Rice, Director of Archives<br>
 Catriona Schlosser, Archivist<br>
 Eric Silberberg, Spring 2021 Intern
+Aida Garrido, Summer 2021 Intern
 </p>
 <p>
 
@@ -81,6 +87,7 @@ Cynthia Tobar, Assistant Professor/Head of Archives, Bronx Community College<br>
 Lindsay Wittwer, Digital Archivist, Centro de Estudios Puertoriqueños at Hunter College<br>
 Jerry Carlson, Host of _Cinema Then, Cinema Now_ and <br>
 Ellen Belcher, Associate Professor and Special Collections Librarian, John Jay College<br>
+Tom Gubernat, Media Archive Technician, Charles Evans Inniss Memorial Library, Medgar Evers College
 <p>
  
 ## <a name="app">Appendices</a></p>
