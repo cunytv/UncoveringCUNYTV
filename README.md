@@ -6,7 +6,7 @@
 
 <hr>
 
-:zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: 
+:zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: 
  
  <p>As of 7/28/2021: 564 assets digitized (636 tapes); 69 assets captioned; 50 uploaded </p>
 
@@ -33,7 +33,7 @@ The City University of New York (CUNY) is the largest university network in the 
 | [Centro de Estudios Puertoriqueños at Hunter College](Collections/CentroHunter/hunter.pdf)| Centro Records | VHS | 63 
 | [College of Staten Island](Collections/CinemaThenCinemaNow/staten.pdf) | Cinema Then, Cinema Now | U-matic, Betacam SP | 160 | <a href="https://www.youtube.com/playlist?list=PLRqOW3sjwjhPFrX88ARrTYd7axdxPdipJ">Link </a>
 | [Bronx Community College](Collections/BronxCommunityCollege/bronx.pdf) | Hall of Fame for Great Americans | VHS, 1/4" audio magnetic tape | 30 
-| [Medgar Evers College](Collections/MedgarEversCollege/medgar.pdf) | Medgar Evers College Archives | U-Matic | 10 
+| [Medgar Evers College](Collections/MedgarEversCollege/mec.pdf) | Medgar Evers College Archives | U-Matic | 10 
 |||Total|1288
 
 ## <a name="plan">Project Plan</a>  
@@ -67,6 +67,8 @@ Documentation on captioning, digitization, access, and outreach will be posted h
 <a href="/MonthlyReports/2021May.pdf">May 2021</a>
 
 <a href="/MonthlyReports/2021June.pdf">June 2021</a>
+
+<a href="/MonthlyReports/2021July.pdf">July 2021</a>
 
 ## <a name="cred">Credits </a>
 
