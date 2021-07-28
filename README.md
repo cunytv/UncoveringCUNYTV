@@ -76,8 +76,8 @@ _CUNY TV_ <p>
 Kelly Haydon, Collections Coordinator, Uncovering CUNY'S Audiovisual Heritage<br>
 David Rice, Director of Archives<br>
 Catriona Schlosser, Archivist<br>
-Eric Silberberg, Spring 2021 Intern
-Aida Garrido, Summer 2021 Intern
+Eric Silberberg, Spring 2021 Intern (CTCN)<br>
+Aida Garrido, Summer 2021 Intern (HoMoVISIONES)
 </p>
 <p>
 
