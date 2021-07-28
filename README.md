@@ -8,7 +8,7 @@
 
 :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: 
  
- <p>As of 6/30/2021: 512 assets digitized (584 tapes); 48 assets captioned; 34 uploaded </p>
+ <p>As of 7/28/2021: 564 assets digitized (636 tapes); 69 assets captioned; 50 uploaded </p>
 
 ## <a name="about"> Project Overview </a>
 
@@ -25,15 +25,15 @@ The City University of New York (CUNY) is the largest university network in the 
 
 | Institution | CUNY TV Program  | Formats | # of Tapes | YouTube Playlist
 | ----------- | ----------- | ------- | ----------- | ----- 
-| [Baruch College](Collections/baruch.pdf) | Baruch College Special | U-matic, Betacam SP, DVCam | 214 | <a href="https://www.youtube.com/playlist?list=PLRqOW3sjwjhO296DyaxZlyIFSTSMh-w_g">Link </a>
-| [Baruch College](Collections/baruchcc.pdf) | City Club | U-matic, Betacam SP, DVCam | 240 
-| [John Jay College](Collections/johnjay.pdf) | Criminal Justice CloseUp | U-matic, Betacam SP, VHS | 180 
-| [Centro de Estudios Puertoriqueños at Hunter College](Collections/hunter.pdf)| HoMoVisiones | VHS | 283 
-| [Centro de Estudios Puertoriqueños at Hunter College](Collections/hunter.pdf) | Politics con Sabor | MiniDV | 108 
-| [Centro de Estudios Puertoriqueños at Hunter College](Collections/hunter.pdf)| Centro Records | VHS | 63 
-| [College of Staten Island](Collections/staten.pdf) | Cinema Then, Cinema Now | U-matic, Betacam SP | 160 | <a href="https://www.youtube.com/playlist?list=PLRqOW3sjwjhPFrX88ARrTYd7axdxPdipJ">Link </a>
-| [Bronx Community College](Collections/bronx.pdf) | Hall of Fame for Great Americans | VHS, 1/4" audio magnetic tape | 30 
-| [Medgar Evers College](Collections/medgar.pdf) | Medgar Evers College Archives | U-Matic | 10 
+| [Baruch College](Collections/BaruchCollegeSpecials/baruch.pdf) | Baruch College Special | U-matic, Betacam SP, DVCam | 214 | <a href="https://www.youtube.com/playlist?list=PLRqOW3sjwjhO296DyaxZlyIFSTSMh-w_g">Link </a>
+| [Baruch College](Collections/BronxCommunityCollege/baruchcc.pdf) | City Club | U-matic, Betacam SP, DVCam | 240 
+| [John Jay College](Collections/CriminalJusticeCU/johnjay.pdf) | Criminal Justice CloseUp | U-matic, Betacam SP, VHS | 180 
+| [Centro de Estudios Puertoriqueños at Hunter College](Collections/CentroHunter/hunter.pdf)| HoMoVisiones | VHS | 283 
+| [Centro de Estudios Puertoriqueños at Hunter College](Collections/CentroHunter/hunter.pdf) | Politics con Sabor | MiniDV | 108  
+| [Centro de Estudios Puertoriqueños at Hunter College](Collections/CentroHunter/hunter.pdf)| Centro Records | VHS | 63 
+| [College of Staten Island](Collections/CinemaThenCinemaNow/staten.pdf) | Cinema Then, Cinema Now | U-matic, Betacam SP | 160 | <a href="https://www.youtube.com/playlist?list=PLRqOW3sjwjhPFrX88ARrTYd7axdxPdipJ">Link </a>
+| [Bronx Community College](Collections/BronxCommunityCollege/bronx.pdf) | Hall of Fame for Great Americans | VHS, 1/4" audio magnetic tape | 30 
+| [Medgar Evers College](Collections/MedgarEversCollege/medgar.pdf) | Medgar Evers College Archives | U-Matic | 10 
 |||Total|1288
 
 ## <a name="plan">Project Plan</a>  
