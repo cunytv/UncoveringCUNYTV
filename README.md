@@ -8,7 +8,7 @@
 
 :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: 
  
- <p>As of 7/28/2021: 564 assets digitized (636 tapes); 69 assets captioned; 50 uploaded </p>
+ <p>As of 8/31/2021: 647 assets digitized (721 tapes); 70 assets captioned; 50 uploaded </p>
 
 ## <a name="about"> Project Overview </a>
 
@@ -69,6 +69,8 @@ Documentation on captioning, digitization, access, and outreach will be posted h
 <a href="/MonthlyReports/2021June.pdf">June 2021</a>
 
 <a href="/MonthlyReports/2021July.pdf">July 2021</a>
+
+<a href="/MonthlyReports/2021Aug.pdf">August 2021</a>
 
 ## <a name="cred">Credits </a>
 
