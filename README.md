@@ -6,7 +6,7 @@
 
 <hr>
 
-:zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: 
+:zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: 
  
  <p>As of 8/31/2021: 647 assets digitized (721 tapes); 70 assets captioned; 50 uploaded </p>
 
