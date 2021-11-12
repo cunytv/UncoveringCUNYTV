@@ -25,10 +25,10 @@ The City University of New York (CUNY) is the largest university network in the 
 
 | Institution | CUNY TV Program  | Formats | # of Tapes | Streaming 
 | ----------- | ----------- | ------- | ----------- | ----- 
-| [Baruch College](Collections/BaruchCollegeSpecials/baruch.pdf) | Baruch College Special | U-matic, Betacam SP, DVCam | 214 | <a href="https://www.youtube.com/playlist?list=PLRqOW3sjwjhO296DyaxZlyIFSTSMh-w_g">Youtube</a>
-| [Baruch College](Collections/BronxCommunityCollege/baruchcc.pdf) | City Club | U-matic, Betacam SP, DVCam | 240 
+| [Baruch College](Collections/BaruchCollegeSpecials/baruch.pdf) | Baruch College Special | U-matic, Betacam SP, DVCam | 214 | <a href="https://www.youtube.com/playlist?list=PLRqOW3sjwjhO296DyaxZlyIFSTSMh-w_g">Youtube.Com</a>
+| [Baruch College](Collections/BronxCommunityCollege/baruchcc.pdf) | City Club | U-matic, Betacam SP, DVCam | 240 | <a href="https://www.youtube.com/playlist?list=PLRqOW3sjwjhO296DyaxZlyIFSTSMh-w_g">Youtube.Com</a>
 | [John Jay College](Collections/CriminalJusticeCU/johnjay.pdf) | Criminal Justice CloseUp | U-matic, Betacam SP, VHS | 180 
-| [Centro de Estudios Puertoriqueños at Hunter College](Collections/CentroHunter/hunter.pdf)| HoMoVisiones | VHS | 283 
+| [Centro de Estudios Puertoriqueños at Hunter College](Collections/CentroHunter/hunter.pdf)| HoMoVisiones | VHS | 283 | 
 | [Centro de Estudios Puertoriqueños at Hunter College](Collections/CentroHunter/hunter.pdf) | Politics con Sabor | MiniDV | 108  
 | [Centro de Estudios Puertoriqueños at Hunter College](Collections/CentroHunter/hunter.pdf)| Centro Records | VHS | 63 
 | [College of Staten Island](Collections/CinemaThenCinemaNow/staten.pdf) | Cinema Then, Cinema Now | U-matic, Betacam SP | 160 | <a href="https://www.youtube.com/playlist?list=PLRqOW3sjwjhPFrX88ARrTYd7axdxPdipJ">Youtube.Com</a><br><a href="https://archive.org/details/@cuny_tv?and%5B%5D=subject%3A%22Cinema+Then+Cinema+Now%22&sort=titleSorter">Archive.Org</a>
@@ -71,6 +71,10 @@ Documentation on captioning, digitization, access, and outreach will be posted h
 <a href="/MonthlyReports/2021July.pdf">July 2021</a>
 
 <a href="/MonthlyReports/2021Aug.pdf">August 2021</a>
+
+<a href="/MonthlyReports/2021Sept.pdf">September 2021</a>
+
+<a href="/MonthlyReports/2021Oct.pdf">October 2021</a>
 
 ## <a name="cred">Credits </a>
 
