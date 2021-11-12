@@ -8,7 +8,7 @@
 
 :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: 
  
- <p>As of 11/12/2021: 707 assets digitized (779 tapes); 57 assets caption-corrected; 102 uploaded* </p>
+ <p>As of 11/12/2021: 707 assets digitized (779 tapes);102 assets uploaded (57 caption-corrected)* </p>
 
 ## <a name="about"> Project Overview </a>
 
@@ -111,4 +111,4 @@ Tom Gubernat, Media Archive Technician, Charles Evans Inniss Memorial Library, M
  
  <hr>
 
-* When a cassette tapes turns into a lightning bolt, 32 tapes have been digitized. "Caption corrected" means auto-captioned subrip files were manually reviewed and corrected by a human. Stats are pulled from the CLIR TRANSFER LOG in Airtable: https://airtable.com/appx1LX5xKBtLqJk9/tblKFLZDSaayGTzuB/viwbgcK68SbHSqnAw?blocks=hide
+*When a cassette tapes turns into a lightning bolt, 32 tapes have been digitized. "Caption corrected" means auto-captioned subrip files were manually reviewed and corrected by a human. Stats are pulled from the CLIR TRANSFER LOG in Airtable: https://airtable.com/appx1LX5xKBtLqJk9/tblKFLZDSaayGTzuB/viwbgcK68SbHSqnAw?blocks=hide
