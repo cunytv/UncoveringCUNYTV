@@ -8,7 +8,7 @@
 
 :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: 
  
- <p>As of 11/12/2021: 707 assets digitized (779 tapes); 57 assets caption-corrected; 102 uploaded </p>
+ <p>As of 11/12/2021: 707 assets digitized (779 tapes); 57 assets caption-corrected; 102 uploaded* </p>
 
 ## <a name="about"> Project Overview </a>
 
@@ -31,7 +31,7 @@ The City University of New York (CUNY) is the largest university network in the 
 | [Centro de Estudios Puertoriqueños at Hunter College](Collections/CentroHunter/hunter.pdf)| HoMoVisiones | VHS | 283 
 | [Centro de Estudios Puertoriqueños at Hunter College](Collections/CentroHunter/hunter.pdf) | Politics con Sabor | MiniDV | 108  
 | [Centro de Estudios Puertoriqueños at Hunter College](Collections/CentroHunter/hunter.pdf)| Centro Records | VHS | 63 
-| [College of Staten Island](Collections/CinemaThenCinemaNow/staten.pdf) | Cinema Then, Cinema Now | U-matic, Betacam SP | 160 | <a href="https://www.youtube.com/playlist?list=PLRqOW3sjwjhPFrX88ARrTYd7axdxPdipJ">Youtube</a>, <a href="https://archive.org/details/@cuny_tv?and%5B%5D=subject%3A%22Cinema+Then+Cinema+Now%22&sort=titleSorter">Archive.Org</a>
+| [College of Staten Island](Collections/CinemaThenCinemaNow/staten.pdf) | Cinema Then, Cinema Now | U-matic, Betacam SP | 160 | <a href="https://www.youtube.com/playlist?list=PLRqOW3sjwjhPFrX88ARrTYd7axdxPdipJ">Youtube.Com</a><br><a href="https://archive.org/details/@cuny_tv?and%5B%5D=subject%3A%22Cinema+Then+Cinema+Now%22&sort=titleSorter">Archive.Org</a>
 | [Bronx Community College](Collections/BronxCommunityCollege/bronx.pdf) | Hall of Fame for Great Americans | VHS, 1/4" audio magnetic tape | 30 
 | [Medgar Evers College](Collections/MedgarEversCollege/mec.pdf) | Medgar Evers College Archives | U-Matic | 10 
 |||Total|1288
@@ -107,4 +107,4 @@ Tom Gubernat, Media Archive Technician, Charles Evans Inniss Memorial Library, M
  
  <hr>
 
-* When a cassette tapes turns into a lightning bolt, 32 tapes have been digitized, captioned, ingested, and made accessible!
+* When a cassette tapes turns into a lightning bolt, 32 tapes have been digitized. "Caption corrected" means auto-captioned subrip files were manually reviewed and corrected by a human. Stats are pulled from the CLIR TRANSFER LOG in Airtable: https://airtable.com/appx1LX5xKBtLqJk9/tblKFLZDSaayGTzuB/viwbgcK68SbHSqnAw?blocks=hide
