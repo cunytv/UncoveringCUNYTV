@@ -6,9 +6,9 @@
 
 <hr>
 
-:zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: 
+:zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: 
  
- <p>As of 8/31/2021: 647 assets digitized (721 tapes); 70 assets captioned; 50 uploaded </p>
+ <p>As of 11/12/2021: 707 assets digitized (779 tapes); 57 caption-corrected; 102 uploaded </p>
 
 ## <a name="about"> Project Overview </a>
 
@@ -107,4 +107,4 @@ Tom Gubernat, Media Archive Technician, Charles Evans Inniss Memorial Library, M
  
  <hr>
 
-* When a cassette tapes turns into a lightning bolt, 32 tapes have been digitized, captioned, ingested, and made accessible!
+* When a cassette tapes turns into a lightning bolt, 32 tapes have been digitized. The upload numbers include both caption corrected and auto captioned. "Caption corrected" means auto-captioned files were reviewed and corrected by a human. Monthly stats are pulled from the CLIR Transfer Log available in Airtable: https://airtable.com/appx1LX5xKBtLqJk9/tblKFLZDSaayGTzuB/viwbgcK68SbHSqnAw?blocks=hide. 
