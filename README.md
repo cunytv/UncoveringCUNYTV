@@ -55,11 +55,12 @@ Documentation on captioning, digitization, access, and outreach will be posted h
 ## <a name="cred">Credits </a>
 
 _CUNY TV_ <p>
-Kelly Haydon, Collections Coordinator, Uncovering CUNY'S Audiovisual Heritage<br>
+Kelly Haydon, Project Manager<br>
 David Rice, Director of Archives<br>
 Catriona Schlosser, Archivist<br>
-Eric Silberberg, Spring 2021 Intern (CTCN)<br>
-Aida Garrido, Summer 2021 Intern (HoMoVISIONES)
+Eric Silberberg, Intern (Spring 2021)<br>
+Aida Garrido, Intern (Summer 2021)
+Liza Kastrilevich, Intern (Fall 2022)
 </p>
 <p>
 
