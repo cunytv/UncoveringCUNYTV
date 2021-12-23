@@ -59,7 +59,7 @@ Kelly Haydon, Project Manager<br>
 David Rice, Director of Archives<br>
 Catriona Schlosser, Archivist<br>
 Eric Silberberg, Intern (Spring 2021)<br>
-Aida Garrido, Intern (Summer 2021)
+Aida Garrido, Intern (Summer 2021)<br>
 Liza Kastrilevich, Intern (Fall 2022)
 </p>
 <p>
