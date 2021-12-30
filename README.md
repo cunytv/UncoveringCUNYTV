@@ -6,9 +6,9 @@
 
 <hr>
 
-:zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: 
+:zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: 
  
- <p>As of 8/31/2021: 647 assets digitized (721 tapes); 70 assets captioned; 50 uploaded </p>
+ <p>As of 12/17/2021: 737 assets digitized (811 tapes); 192 assets uploaded (57 caption-corrected)* </p>
 
 ## <a name="about"> Project Overview </a>
 
@@ -23,15 +23,15 @@ The project can also be followed on [Twitter](https://twitter.com/hashtag/uncove
 The City University of New York (CUNY) is the largest university network in the country with over two dozen schools in every one of New York City's five boroughs. The chart below lists the five the schools partnering with this project, and public television collections they manage. Each collection is comprised of a series that aired between the 1980s and early 2000s, but only available on an obsolete videotape(or audiotape) format. Collectively, the content tells the story of New York City as it grapples with public policy and social justice in a delicate era just before, and just after, 9/11. Clicking through each institution will reveal a one-page description of the collections in their care. 
 
 
-| Institution | CUNY TV Program  | Formats | # of Tapes | YouTube Playlist
+| Institution | Collection | Formats | # of Tapes | Streaming 
 | ----------- | ----------- | ------- | ----------- | ----- 
-| [Baruch College](Collections/BaruchCollegeSpecials/baruch.pdf) | Baruch College Special | U-matic, Betacam SP, DVCam | 214 | <a href="https://www.youtube.com/playlist?list=PLRqOW3sjwjhO296DyaxZlyIFSTSMh-w_g">Link </a>
-| [Baruch College](Collections/BronxCommunityCollege/baruchcc.pdf) | City Club | U-matic, Betacam SP, DVCam | 240 
+| [Baruch College](Collections/BaruchCollegeSpecials/baruch.pdf) | Baruch College Special | U-matic, Betacam SP, DVCam | 214 | <a href="https://www.youtube.com/playlist?list=PLRqOW3sjwjhO296DyaxZlyIFSTSMh-w_g">Youtube.Com</a>
+| [Baruch College](Collections/BronxCommunityCollege/baruchcc.pdf) | City Club | U-matic, Betacam SP, DVCam | 240 | <a href="https://www.youtube.com/playlist?list=PLRqOW3sjwjhO296DyaxZlyIFSTSMh-w_g">Youtube.Com</a>
 | [John Jay College](Collections/CriminalJusticeCU/johnjay.pdf) | Criminal Justice CloseUp | U-matic, Betacam SP, VHS | 180 
-| [Centro de Estudios Puertoriqueños at Hunter College](Collections/CentroHunter/hunter.pdf)| HoMoVisiones | VHS | 283 
+| [Centro de Estudios Puertoriqueños at Hunter College](Collections/CentroHunter/hunter.pdf)| HoMoVisiones | VHS | 283 | <a href="https://archive.org/search.php?query=subject%3A%22HoMoVISIONES%22&sort=date">Archive.Org</a>
 | [Centro de Estudios Puertoriqueños at Hunter College](Collections/CentroHunter/hunter.pdf) | Politics con Sabor | MiniDV | 108  
 | [Centro de Estudios Puertoriqueños at Hunter College](Collections/CentroHunter/hunter.pdf)| Centro Records | VHS | 63 
-| [College of Staten Island](Collections/CinemaThenCinemaNow/staten.pdf) | Cinema Then, Cinema Now | U-matic, Betacam SP | 160 | <a href="https://www.youtube.com/playlist?list=PLRqOW3sjwjhPFrX88ARrTYd7axdxPdipJ">Link </a>
+| [College of Staten Island](Collections/CinemaThenCinemaNow/staten.pdf) | Cinema Then, Cinema Now | U-matic, Betacam SP | 160 | <a href="https://www.youtube.com/playlist?list=PLRqOW3sjwjhPFrX88ARrTYd7axdxPdipJ">Youtube.Com</a><br><a href="https://archive.org/details/@cuny_tv?and%5B%5D=subject%3A%22Cinema+Then+Cinema+Now%22&sort=titleSorter">Archive.Org</a>
 | [Bronx Community College](Collections/BronxCommunityCollege/bronx.pdf) | Hall of Fame for Great Americans | VHS, 1/4" audio magnetic tape | 30 
 | [Medgar Evers College](Collections/MedgarEversCollege/mec.pdf) | Medgar Evers College Archives | U-Matic | 10 
 |||Total|1288
@@ -50,36 +50,17 @@ Documentation on captioning, digitization, access, and outreach will be posted h
 
 ## <a name="month">Monthly Reports</a>
 
-<a href="/MonthlyReports/2020Sept.pdf">September 2020</a>
-
-<a href="/MonthlyReports/2020Oct.pdf">October 2020</a>
-
-<a href="/MonthlyReports/2020Nov.pdf">November 2020</a>
-
-<a href="/MonthlyReports/2020Dec.pdf">Decemeber 2020, January 2021</a>
-
-<a href="/MonthlyReports/2021Feb.pdf">February 2021</a>
-
-<a href="/MonthlyReports/2021March.pdf">March 2021</a>
-
-<a href="/MonthlyReports/2021Apr.pdf">April 2021</a>
-
-<a href="/MonthlyReports/2021May.pdf">May 2021</a>
-
-<a href="/MonthlyReports/2021June.pdf">June 2021</a>
-
-<a href="/MonthlyReports/2021July.pdf">July 2021</a>
-
-<a href="/MonthlyReports/2021Aug.pdf">August 2021</a>
+<a href="/MonthlyReports/2020Sept.pdf">September 2020</a> | <a href="/MonthlyReports/2020Oct.pdf">October 2020</a> | <a href="/MonthlyReports/2020Nov.pdf">November 2020</a> | <a href="/MonthlyReports/2020Dec.pdf">Decemeber 2020, January 2021</a> | <a href="/MonthlyReports/2021Feb.pdf">February 2021</a> | <a href="/MonthlyReports/2021March.pdf">March 2021</a> | <a href="/MonthlyReports/2021Apr.pdf">April 2021</a> | <a href="/MonthlyReports/2021May.pdf">May 2021</a> | <a href="/MonthlyReports/2021June.pdf">June 2021</a> | <a href="/MonthlyReports/2021July.pdf">July 2021</a> | <a href="/MonthlyReports/2021Aug.pdf">August 2021</a> | <a href="/MonthlyReports/2021Sept.pdf">September 2021</a> | <a href="/MonthlyReports/2021Oct.pdf">October 2021</a> | <a href="/MonthlyReports/2021Nov.pdf">November 2021 | <a href="/MonthlyReports/2021Dec.pdf">December 2021
 
 ## <a name="cred">Credits </a>
 
 _CUNY TV_ <p>
-Kelly Haydon, Collections Coordinator, Uncovering CUNY'S Audiovisual Heritage<br>
+Kelly Haydon, Project Manager<br>
 David Rice, Director of Archives<br>
 Catriona Schlosser, Archivist<br>
-Eric Silberberg, Spring 2021 Intern (CTCN)<br>
-Aida Garrido, Summer 2021 Intern (HoMoVISIONES)
+Eric Silberberg, Intern (Spring 2021)<br>
+Aida Garrido, Intern (Summer 2021)<br>
+Liza Kastrilevich, Intern (Fall 2022)
 </p>
 <p>
 
@@ -107,4 +88,4 @@ Tom Gubernat, Media Archive Technician, Charles Evans Inniss Memorial Library, M
  
  <hr>
 
-* When a cassette tapes turns into a lightning bolt, 32 tapes have been digitized, captioned, ingested, and made accessible!
+*When a cassette tapes turns into a lightning bolt, 32 tapes have been digitized. "Caption corrected" means auto-captioned subrip files were manually reviewed and corrected by a human. Stats are pulled from the CLIR TRANSFER LOG in Airtable: https://airtable.com/appx1LX5xKBtLqJk9/tblKFLZDSaayGTzuB/viwbgcK68SbHSqnAw?blocks=hide
