@@ -6,9 +6,9 @@
 
 <hr>
 
-:zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: 
+:zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: 
  
- <p>As of 12/17/2021: 737 assets digitized (811 tapes); 192 assets uploaded (57 caption-corrected)* </p>
+ <p>As of 12/30/2021: 732 assets digitized (804 tapes); 194 assets uploaded (57 caption-corrected)* </p>
 
 ## <a name="about"> Project Overview </a>
 
@@ -25,15 +25,15 @@ The City University of New York (CUNY) is the largest university network in the 
 
 | Institution | Collection | Formats | # of Tapes | Streaming 
 | ----------- | ----------- | ------- | ----------- | ----- 
-| [Baruch College](Collections/BaruchCollegeSpecials/baruch.pdf) | Baruch College Special | U-matic, Betacam SP, DVCam | 214 | <a href="https://www.youtube.com/playlist?list=PLRqOW3sjwjhO296DyaxZlyIFSTSMh-w_g">Youtube.Com</a>
-| [Baruch College](Collections/BronxCommunityCollege/baruchcc.pdf) | City Club | U-matic, Betacam SP, DVCam | 240 | <a href="https://www.youtube.com/playlist?list=PLRqOW3sjwjhO296DyaxZlyIFSTSMh-w_g">Youtube.Com</a>
-| [John Jay College](Collections/CriminalJusticeCU/johnjay.pdf) | Criminal Justice CloseUp | U-matic, Betacam SP, VHS | 180 
-| [Centro de Estudios Puertoriqueños at Hunter College](Collections/CentroHunter/hunter.pdf)| HoMoVisiones | VHS | 283 | <a href="https://archive.org/search.php?query=subject%3A%22HoMoVISIONES%22&sort=date">Archive.Org</a>
-| [Centro de Estudios Puertoriqueños at Hunter College](Collections/CentroHunter/hunter.pdf) | Politics con Sabor | MiniDV | 108  
-| [Centro de Estudios Puertoriqueños at Hunter College](Collections/CentroHunter/hunter.pdf)| Centro Records | VHS | 63 
-| [College of Staten Island](Collections/CinemaThenCinemaNow/staten.pdf) | Cinema Then, Cinema Now | U-matic, Betacam SP | 160 | <a href="https://www.youtube.com/playlist?list=PLRqOW3sjwjhPFrX88ARrTYd7axdxPdipJ">Youtube.Com</a><br><a href="https://archive.org/details/@cuny_tv?and%5B%5D=subject%3A%22Cinema+Then+Cinema+Now%22&sort=titleSorter">Archive.Org</a>
-| [Bronx Community College](Collections/BronxCommunityCollege/bronx.pdf) | Hall of Fame for Great Americans | VHS, 1/4" audio magnetic tape | 30 
-| [Medgar Evers College](Collections/MedgarEversCollege/mec.pdf) | Medgar Evers College Archives | U-Matic | 10 
+| [Baruch College](2-Collections/BaruchCollegeSpecials/baruch.pdf) | Baruch College Special | U-matic, Betacam SP, DVCam | 214 | <a href="https://www.youtube.com/playlist?list=PLRqOW3sjwjhO296DyaxZlyIFSTSMh-w_g">Youtube.Com</a>
+| [Baruch College](2-Collections/BronxCommunityCollege/baruchcc.pdf) | City Club | U-matic, Betacam SP, DVCam | 240 | <a href="https://www.youtube.com/playlist?list=PLRqOW3sjwjhO296DyaxZlyIFSTSMh-w_g">Youtube.Com</a>
+| [John Jay College](2-Collections/CriminalJusticeCU/johnjay.pdf) | Criminal Justice CloseUp | U-matic, Betacam SP, VHS | 180 
+| [Centro de Estudios Puertoriqueños at Hunter College](2-Collections/CentroHunter/hunter.pdf)| HoMoVisiones | VHS | 283 | <a href="https://archive.org/search.php?query=subject%3A%22HoMoVISIONES%22&sort=date">Archive.Org</a>
+| [Centro de Estudios Puertoriqueños at Hunter College](2-Collections/CentroHunter/hunter.pdf) | Politics con Sabor | MiniDV | 108  
+| [Centro de Estudios Puertoriqueños at Hunter College](2-Collections/CentroHunter/hunter.pdf)| Centro Records | VHS | 63 
+| [College of Staten Island](2-Collections/CinemaThenCinemaNow/staten.pdf) | Cinema Then, Cinema Now | U-matic, Betacam SP | 160 | <a href="https://www.youtube.com/playlist?list=PLRqOW3sjwjhPFrX88ARrTYd7axdxPdipJ">Youtube.Com</a><br><a href="https://archive.org/details/@cuny_tv?and%5B%5D=subject%3A%22Cinema+Then+Cinema+Now%22&sort=titleSorter">Archive.Org</a>
+| [Bronx Community College](2-Collections/BronxCommunityCollege/bronx.pdf) | Hall of Fame for Great Americans | VHS, 1/4" audio magnetic tape | 30 
+| [Medgar Evers College](2-Collections/MedgarEversCollege/mec.pdf) | Medgar Evers College Archives | U-Matic | 10 
 |||Total|1288
 
 ## <a name="plan">Project Plan</a>  
@@ -42,7 +42,7 @@ The City University of New York (CUNY) is the largest university network in the 
 
 The Gantt chart below visualizes the 18 month timeline (9/1/2020 - 2/28/2022). Collections will be completed self-contained cycles comprised of such tasks as cataloging, digitization, ingest, captioning, and public access. The length of time estimated is informed by the number of tapes in the collection. Outreach efforts will officially begin February 2021 after the first cycle is complete and will be engaged on a weekly basis via social media, press releases, newsletters, listervs, blog posts, and person-to-person contact. The timeline also indicates semesters where a student intern will assist the efforts. 
 
-<img src="ProjectDocumentation/cuny_clir_plan_10.06.2020.png" width="100%" height="100%">
+<img src="1-Project/cuny_clir_plan_10.06.2020.png" width="100%" height="100%">
 
 ### Workflows and Guidelines
 
@@ -77,12 +77,12 @@ Tom Gubernat, Media Archive Technician, Charles Evans Inniss Memorial Library, M
  
 ## <a name="app">Appendices</a></p>
 
-<a href="Appendices/2019_CLIR_CUNY_2ndRound.pdf">CLIR 2019 Proposal</a><br>
-<a href="Appendices/2019_CLIR_CUNY_2ndRoundBudget.xlsx"> CLIR 2019 Budget</a><br>
-<a href="Appendices/2019_CLIR_CityClubInventory.pdf"> City Club Inventory </a><br>
-<a href="Appendices/2019_CLIR_CUNY_RightsResuse.pdf">Rights, Ethics, and Reuse Statement</a><br>
-<a href="Appendices/2020_CUNYTV_ERF_Narrative.pdf">2020 Emergency Relief Fund Narrative</a><br>
-<a href="Appendices/2020_CUNYTV_ERF_Budget.xlsx">2020 Emergency Relief Fund Budget</a><br>
+<a href="1-Project/Grants/2019_CLIR_CUNY_2ndRound.pdf">CLIR 2019 Proposal</a><br>
+<a href="1-Project/Grants/2019_CLIR_CUNY_2ndRoundBudget.xlsx"> CLIR 2019 Budget</a><br>
+<a href="1-Project/Grants/2019_CLIR_CityClubInventory.pdf"> City Club Inventory </a><br>
+<a href="1-Project/Grants/2019_CLIR_CUNY_RightsResuse.pdf">Rights, Ethics, and Reuse Statement</a><br>
+<a href="1-Project/Grants/2020_CUNYTV_ERF_Narrative.pdf">2020 Emergency Relief Fund Narrative</a><br>
+<a href="1-Project/Grants/2020_CUNYTV_ERF_Budget.xlsx">2020 Emergency Relief Fund Budget</a><br>
 
 <p>
  
