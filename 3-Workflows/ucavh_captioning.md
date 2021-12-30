@@ -1,3 +1,3 @@
-# h1 UCAVH Captioning Guidelines and Workflow
+UCAVH Captioning Guidelines and Workflow
 
 tbd
