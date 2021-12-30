@@ -77,12 +77,12 @@ Tom Gubernat, Media Archive Technician, Charles Evans Inniss Memorial Library, M
  
 ## <a name="app">Appendices</a></p>
 
-<a href="Appendices/2019_CLIR_CUNY_2ndRound.pdf">CLIR 2019 Proposal</a><br>
-<a href="Appendices/2019_CLIR_CUNY_2ndRoundBudget.xlsx"> CLIR 2019 Budget</a><br>
-<a href="Appendices/2019_CLIR_CityClubInventory.pdf"> City Club Inventory </a><br>
-<a href="Appendices/2019_CLIR_CUNY_RightsResuse.pdf">Rights, Ethics, and Reuse Statement</a><br>
-<a href="Appendices/2020_CUNYTV_ERF_Narrative.pdf">2020 Emergency Relief Fund Narrative</a><br>
-<a href="Appendices/2020_CUNYTV_ERF_Budget.xlsx">2020 Emergency Relief Fund Budget</a><br>
+<a href="Project/Grants/2019_CLIR_CUNY_2ndRound.pdf">CLIR 2019 Proposal</a><br>
+<a href="Project/Grants/2019_CLIR_CUNY_2ndRoundBudget.xlsx"> CLIR 2019 Budget</a><br>
+<a href="Project/Grants/2019_CLIR_CityClubInventory.pdf"> City Club Inventory </a><br>
+<a href="Project/Grants/2019_CLIR_CUNY_RightsResuse.pdf">Rights, Ethics, and Reuse Statement</a><br>
+<a href="Project/Grants/2020_CUNYTV_ERF_Narrative.pdf">2020 Emergency Relief Fund Narrative</a><br>
+<a href="Project/Grants/2020_CUNYTV_ERF_Budget.xlsx">2020 Emergency Relief Fund Budget</a><br>
 
 <p>
  
