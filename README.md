@@ -8,7 +8,7 @@
 
 :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: 
  
- <p>As of 04/06/2022: 732 assets digitized (864 tapes); 357 assets uploaded</p>
+ <p>As of 04/07/2022: 791 assets digitized (869 tapes); 357 assets uploaded</p>
 
 ## <a name="about"> Project Overview </a>
 
@@ -26,7 +26,7 @@ The City University of New York (CUNY) is the largest university network in the 
 | Institution | Collection | Formats | # of Tapes | Streaming 
 | ----------- | ----------- | ------- | ----------- | ----- 
 | [Baruch College](2-Collections/BaruchCollegeSpecials/baruch.pdf) | Baruch College Special | U-matic, Betacam SP, DVCam | 214 | <a href="https://www.youtube.com/playlist?list=PLRqOW3sjwjhO296DyaxZlyIFSTSMh-w_g">Youtube.Com</a>
-| [Baruch College](2-Collections/BronxCommunityCollege/baruchcc.pdf) | City Club | U-matic, Betacam SP, DVCam | 240 | <a href="https://www.youtube.com/playlist?list=PLRqOW3sjwjhO296DyaxZlyIFSTSMh-w_g">Youtube.Com</a><br><a href="https://archive.org/search.php?query=subject%3A%22City+Club+of+New+York+Friday+Forum%22&sort=titleSorter">Archive.Org</a>
+| [Baruch College](2-Collections/BronxCommunityCollege/baruchcc.pdf) | City Club | U-matic, Betacam SP, DVCam | 240 | <a href="https://www.youtube.com/playlist?list=PLRqOW3sjwjhO2HE03E3YRU3BPPdNXjbCN">Youtube.Com</a><br><a href="https://archive.org/search.php?query=subject%3A%22City+Club+of+New+York+Friday+Forum%22&sort=titleSorter">Archive.Org</a>
 | [John Jay College](2-Collections/CriminalJusticeCU/johnjay.pdf) | Criminal Justice CloseUp | U-matic, Betacam SP, VHS | 180 
 | [Centro de Estudios Puertoriqueños at Hunter College](2-Collections/CentroHunter/hunter.pdf)| HoMoVisiones | VHS | 283 | <a href="https://archive.org/details/homovisiones">Archive.Org</a>
 | [Centro de Estudios Puertoriqueños at Hunter College](2-Collections/CentroHunter/hunter.pdf) | Politics con Sabor | MiniDV | 108  
