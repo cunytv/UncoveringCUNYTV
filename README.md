@@ -8,7 +8,7 @@
 
 :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: 
  
- <p>As of 04/07/2022: 786 assets digitized (864 tapes); 357 assets uploaded</p>
+ <p>As of 04/07/2022: 791 assets digitized (869 tapes); 357 assets uploaded</p>
 
 ## <a name="about"> Project Overview </a>
 
