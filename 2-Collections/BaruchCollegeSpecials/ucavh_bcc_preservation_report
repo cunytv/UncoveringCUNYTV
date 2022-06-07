@@ -1,0 +1,241 @@
+<!-- Output copied to clipboard! -->
+
+<!-----
+
+Yay, no errors, warnings, or alerts!
+
+Conversion time: 0.701 seconds.
+
+
+Using this Markdown file:
+
+1. Paste this output into your source file.
+2. See the notes and action items below regarding this conversion run.
+3. Check the rendered output (headings, lists, code blocks, tables) for proper
+   formatting and use a linkchecker before you publish this page.
+
+Conversion notes:
+
+* Docs to Markdown version 1.0β33
+* Tue Jun 07 2022 06:14:53 GMT-0700 (PDT)
+* Source doc: ucavh_bcc_documentation
+
+WARNING:
+You have 5 H1 headings. You may want to use the "H1 -> H2" option to demote all headings by one level.
+
+----->
+
+
+<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 1; ALERTS: 0.</p>
+<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
+
+<p style="color: red; font-weight: bold">Links to alert messages:</p>
+<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
+
+
+Uncovering CUNY’s Audiovisual Heritage **Preservation Report for Bronx **
+
+**Community College**
+
+Last date updated: 
+
+
+---
+
+
+[TOC]
+
+
+
+---
+
+
+# 1 Project Summary	
+
+This paper serves as succinct documentation for the Uncovering CUNY’s Audiovisual Heritage Project (UCAVH), for which Bronx Community College, Archives & Special Collections (BCC) is a participant. The paper aims to clarify issues and specifications that are unique to the preservation efforts for the Hall of Fame for Great Americans Collections (Call # LD3885.H3 A5), in which 15.5 hours of recorded content was migrated from an obsolete carrier to an accessible digital format.  
+
+
+## 1.1 Uncovering CUNY’s Audiovisual Heritage
+
+UCAVH  is a multi-year project that aims to digitize, describe, and make accessible the videotape collections held in archives across the CUNY network. The project is spearheaded by CUNY-TV and makes use of its in-house digitization equipment and OAIS-based digital repository. The project is funded by the Council for Library and Information Resources’ _Digitizing Hidden Special Collections and Archives: Enabling New Scholarship through Increasing Access to Unique Materials_.  Readers are encouraged to browse the project's dashboard for more extensive details and documentation about the UCAVH project: [https://github.com/cunytv/UncoveringCUNYTV/blob/main/README.md](https://github.com/cunytv/UncoveringCUNYTV/blob/main/README.md).
+
+
+## 1.2 Bronx Community College, Archives & Special Collection
+
+Thirty-five audiovisual objects from the Hall of Fame for Great Americans collection were selected for the UCAVH project (of these, only 26 were digitized). 
+
+The recordings are related to the Hall of Fame for Great Americans, an outdoor sculpture gallery in Gould Memorial Library. Most of the recordings are on ¼” open reel audio, with 5 recordings on ¾” U-Matic tape. The content documents the ceremonies inducting individuals into the Hall of Fame. 
+
+These materials were not initially part of the grant application but folded into the project in May 2021. The tapes were received by Kelly Haydon in Feburary of 2022 and returned to Cynthia Tobar in June 2022. 
+
+
+## 1.3 Responsibilities
+
+CUNY-TV agrees to digitize the collection mentioned above and return the following before the project’s end: 
+
+
+
+* 35 audiovisual objects submitted for preservation 
+* 26 Archival Information Packages (AIP)
+* 1 Spreadsheet of descriptive and preservation metadata 
+* 1 Preservation Report
+* 21 Automated transcription files (for audio)
+* 5 Automated caption files (for video)
+
+CUNY-TV will store the AIPs - the preservation master file, digital derivatives, pertinent technical metadata, and file fixities - in the long-term digital repository on LTO tape. Bronx Community College is welcome to retrieve files by contacting CUNY-TV [archive@tv.cuny.edu](mailto:archive@tv.cuny.edu). 
+
+The minimum responsibility of Bronx Community College to the Uncovering CUNY’s Audiovisual Heritage Project is to publicly post the descriptive metadata prior to the Fall of 2022, the end of the grant cycle. Public domain metadata is a requirement of CLIR. The metadata could be presented in a finding aid or the description of the videos, so long as it is discoverable. Otherwise, administrative, storage, access, description, and outreach can be folded into current BCC workflows and practices for digital video content. 
+
+
+## 1.4 Personnel
+
+The author of this paper is Kelly Haydon, UCAVH Project Manager ([kelly.haydon@tv.cuny.edu](mailto:kelly.haydon@tv.cuny.edu)). The project was spearheaded by CUNY-TV staff members David Rice, Director of Archives, and Catriona Schlosser, Archivist, both of whom can be reached at [archive@tv.cuny.edu](mailto:archive@tv.cuny.edu). The contact at Bronx Community College, Archives and Special Collections is Cynthia Tobar, Assistant Professor Librarian Head of Archives, ([cynthia.tobar@bcc.cuny.edu](mailto:cynthia.tobar@bcc.cuny.edu)). 
+
+
+# 2 Physical Objects 
+
+
+## 2.1 Formats
+
+The collection consists of ¼” open reel audio, ¾” U-Matic videotape, VHS, floppy disks, a Zip drive, and a 16mm film. Of these only the audio and videotapes were transferred. A complete inventory is available in section 6. The inventory includes more detailed notes on the condition and transfer status of each tape. The next few sections provide a summarization. 
+
+
+## 2.2 Condition/Conservation
+
+
+### 2.2.a  Videotapes 
+
+Nearly all of the U-Matic tapes are in various stages of Soft Binder Syndrome and were “baked” prior to transfer. Baking tapes is a short-term remedy for restoring the tape to a point where it can be played and digitized. Baking videotapes at CUNY-TV involves incubating tapes in a LEM brand food dehydrator at 125°F for 30 hours. The tape reels are removed from the cassette for more thorough baking, resulting in the label of the tape’s spine being cut with a straight razor.    
+
+The following tapes are so far degraded they needed multiple baking sessions before. They also exhibit inherent color issues and dropout. 
+
+
+    BCC00015	G.W. Carver: Enshrinement to Hall of Fame (Tape 1 of 3)
+
+
+    BCC00016	G.W. Carver: Enshrinement to Hall of Fame (Tape 2 of 3)
+
+
+    BCC00017	G.W. Carver: Enshrinement to Hall of Fame (Tape 3 of 3)
+
+The two VHS tapes in the collection are both off-air recordings (taped off of the television) and did not display any conservation issues. 
+
+
+### 2.2.b  Audiotapes
+
+The ¼” open reel audio tapes displayed minimal Soft Binder Syndrome and were not baked. The tapes were warped and crinkled, especially in the first few feet. Many of the tapes had splices, denoting that the audio was edited. Our technician careful respliced the old splices with new splices and wound the tapes in a tighter wind to avoid further crinkling. 
+
+All audiotapes were recorded with a low integrated loudness, around - 40 LUFs. This level was retained in the preservation master file. To achieve the integrated loudness level recommended by [EBU-R 128](https://en.wikipedia.org/wiki/EBU_R_128), we created a second “restoration” file with the integrated loudness adjusted to -23 LUFs. 
+
+Item BCC00003 (‘Jane Addams Installations into the Hall of Fame for Great Americans, Tape 3 of 4’) required significant conservation treatment and post-digital restoration. The tape was spliced together by pieces of Band-aid with some sections spliced backwards. The master copy preserves the backwards recordings. The “restoration” copy restores the original playback and speed. The restored copy was also trimmed of long silences in the audio. 
+
+
+## 2.3 Transfer Status
+
+Of the 35 objects submitted to the project, 26 were successfully transferred. Of these, the two VHS tapes are off-air recordings of televised works; BCC may not have rights to make them publicly available. 
+
+Objects that were not digitized will have an empty Transfer Date field on the inventory (Section 6). Notes on why they were not transferred are in the Transfer Notes field. Objects that were NOT TRANSFERRED are for the following reasons: 
+
+
+
+* They are already transferred and made available by another entity 
+* They are duplicates of another object that was transferred
+* They are on a format that is not covered by the parameters of this project (computer disks)
+
+
+# 3 Digital Deliverables
+
+This section details the digital deliverables provided to BCC in June of 2022 on an external hard drive. 
+
+
+## 3.1 Archival Information Package (AIP)
+
+The Archival Information Package, or AIP, is an attribute of the OAIS framework, an ISO reference model for digital preservation repositories. The AIP in physical form is a directory of files organized into metadata and object files. The AIP is slightly different for Audio files and video files. The contents of each AIP include: 
+
+
+### 3.1.a Audio
+
+
+
+* objects/…All physical formats within the asset are wrapped in the Broadcast WAV format and encoded in PCM with either a 24 or 32 bit dept and a 96khz sample rate. Restoration files (_restored.wav) were boosted to meet EBU R 128 recommendations for integrated loudness (-23 LUF). 
+* objecs/access/mp3…contains a smaller, more shareable .mp3 file for each of the master files (both the original and the restored) 
+* metadata/…
+    * checksum, list checksums of all digital objects
+    * checksumchecks, date/time stamps of when checksums were created
+    * dfxml, digital forensics xml schema of technical metadata
+    * mets,  xml output of technical metadata in METS schema 
+* metadata/depictions…a .png snapshot of the audio waveform and a visual graph representing the RMS and phase of the waveform. 
+* metadata/fileMeta…XML outputs of technical metadata from four different readers. 
+* metadata/logs…
+    * capture.log, metadata on the creation of the AIP package, this may also include notes by the technician
+    * capture_options, output of transfer environment, vrecord options, and notes on dropped frames and presentation timestamp discontinuity (errors). 
+    * vrecord_input, metadata on the digital detail as it entered the vrecord software. 
+    * framemd5, frame-level md5 checksums
+    * qctools, XML file for viewing in the qctools software
+    * qctools graph, a snapshot of qctools video/audio data as a .jpeg. 
+
+3.1.b Video 
+
+
+
+* objects/…All physical formats within the asset are encoded to a 10-bit FFV1 and wrapped in Matroska (.mkv). 
+    * Note: FFV1/.mkv files are readable by most open-source media programs such as VLC Player. It is generally not supported by proprietary software. However, it is not recommended that the master be accessed other than transcoding to new files for editing, streaming, and viewing. The filename of the master(s) are format id, or instantiation id, which are combined when creating derivatives
+* objects/access…
+    * images, a collection of ten randomly selected frames as .tiff files
+    * mp3, the audio track of the video files
+    * prores, a highly quality prores/.mov file recommended for editing, color-grading, and releasing to media makers
+    * youtube_up, an h264/.mp4 file used for viewing, streaming, and sharing. 
+* metadata/…same as Audio
+* metadata/depictions…a .png snapshot of the audio waveform
+* metadata/fileMeta…same as Audio 
+* metadata/logs…same as Audio
+
+
+## 3.2 Metadata and Documentation 
+
+The following items are included as deliverables on the external hard drive and as documents downloadable from Github: [https://github.com/CUNYTV/UncoveringCUNYTV](https://github.com/CUNYTV/UncoveringCUNYTV). 
+
+
+
+* ucavh_bcc_transferlog/…
+    * A complete log of metadata generated through the preservation process, including descriptive metadata and notes on transfer, conservation treatment, and quality control. 
+* ucavh_clir_grantapplication/…
+    * A pdf of the original grant application sent to CLIR in 2019. The grant contains complete information about the project and CUNY-TV Archives workflows and technical requirements. 
+* ucavh_bcc_documention/…
+    * A digital copy of this report. 
+
+
+## 3.3 Caption Files
+
+
+
+* Access files from each asset were auto-captioned by Maestro, a proprietary transcription tool. 
+* Caption files for video were delivered to BCC as SubRip files (.srt), widely accepted by streaming and playback platforms. Audio files received timed transcripts in the .txt format. 
+* To playback the files locally with the captions overlaid, both the access and video files must be in the same directory with the same filename. YouTube and Internet Archive have modules for uploading captions and transcripts. 
+* Files may be manually corrected using open-source readers such as AegisSub or YouTube’s caption studio. 
+
+
+# 5 Access 
+
+
+## 5.1 Recommendations
+
+In addition to providing access to researchers in the reading room or on the library’s homegrown streaming service, BCC may want to consider uploading to Internet Archive or Youtube to receive a wider audience. CUNY TV hosts a very active Internet Archive channel and can assist with the process: [https://archive.org/details/@cuny_tv](https://archive.org/details/@cuny_tv). 
+
+All files should be streamed with their caption file to reach a diversity of users, preferably corrected by hand and following CUNY TV guidelines for captioning: [https://www.cuny.edu/accessibility/content/videos/](https://www.cuny.edu/accessibility/content/videos/)
+
+Takedown notices, accessibility statements, and disclaimers are all recommended, so viewers with concerns have pathways for making contact. CentroPR, another UCAVH participant, has these on their on Internet Archive page: ​​[https://archive.org/details/@centropr](https://archive.org/details/@centropr)
+
+
+## 5.3 Accreditation 
+
+Please use the following statement when necessary, usually where the work is streamed or screened: 
+
+“Efforts to preserve this program were made possible by CUNY-TV and "Uncovering CUNY's Audiovisual Heritage," a project funded by Council on Library and Information Resources (CLIR).
+
+
+# 6 Inventory & Transfer Log
+
+A complete inventory with notes on the condition and transfer status of each item can be downloaded from here: 
+
+https://github.com/CUNYTV/UncoveringCUNY/raw/main/2-Collections/BronxCommunityCollege/2020606_bcc_transferlog.xlsx
