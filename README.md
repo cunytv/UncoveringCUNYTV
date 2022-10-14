@@ -29,11 +29,11 @@ The City University of New York (CUNY) is the largest university network in the 
 | [Baruch College](2-Collections/BronxCommunityCollege/baruchcc.pdf) | City Club | U-matic, Betacam SP, DVCam | 240 | <a href="https://www.youtube.com/playlist?list=PLRqOW3sjwjhO2HE03E3YRU3BPPdNXjbCN">Youtube.Com</a><br><a href="https://archive.org/search.php?query=subject%3A%22City+Club+of+New+York+Friday+Forum%22&sort=titleSorter">Archive.Org</a>
 | [John Jay College](2-Collections/CriminalJusticeCU/johnjay.pdf) | Criminal Justice CloseUp | U-matic, Betacam SP, VHS | 180 | Moved to next phase
 | [Centro de Estudios Puertoriqueños at Hunter College](2-Collections/CentroHunter/hunter.pdf)| HoMoVisiones | VHS | 283 | <a href="https://archive.org/details/homovisiones">Archive.Org</a>
-| [Centro de Estudios Puertoriqueños at Hunter College](2-Collections/CentroHunter/hunter.pdf) | Politics con Sabor | MiniDV | 108  
-| [Centro de Estudios Puertoriqueños at Hunter College](2-Collections/CentroHunter/hunter.pdf)| Centro Records | VHS | 63 
+| [Centro de Estudios Puertoriqueños at Hunter College](2-Collections/CentroHunter/hunter.pdf) | Politics con Sabor | MiniDV | 108 | <a href="https://centropr-archive.hunter.cuny.edu/collections/collection-descriptions-O-P">Request from Centro</a>  
+| [Centro de Estudios Puertoriqueños at Hunter College](2-Collections/CentroHunter/hunter.pdf)| Centro Records | VHS | 63 | <a href ="https://centropr-archive.hunter.cuny.edu/collections/collection-descriptions-C">Request from Centro</a>
 | [College of Staten Island](2-Collections/CinemaThenCinemaNow/staten.pdf) | Cinema Then, Cinema Now | U-matic, Betacam SP | 160 | <a href="https://www.youtube.com/playlist?list=PLRqOW3sjwjhPFrX88ARrTYd7axdxPdipJ">Youtube.Com</a><br><a href="https://archive.org/details/@cuny_tv?and%5B%5D=subject%3A%22Cinema+Then+Cinema+Now%22&sort=titleSorter">Archive.Org</a>
-| [Bronx Community College](2-Collections/BronxCommunityCollege/bronx.pdf) | Hall of Fame for Great Americans | VHS, 1/4" audio magnetic tape | 30 
-| [Medgar Evers College](2-Collections/MedgarEversCollege/mec.pdf) | Medgar Evers College Archives | U-Matic | 10 
+| [Bronx Community College](2-Collections/BronxCommunityCollege/bronx.pdf) | Hall of Fame for Great Americans | VHS, 1/4" audio magnetic tape | 30 | <a href="https://www.dropbox.com/s/rxwduf2bveghczh/Hall%20of%20Fame%20for%20Great%20Americans%20collection%201894-2008.pdf">Request from Bronx Community College</a>
+| [Medgar Evers College](2-Collections/MedgarEversCollege/mec.pdf) | Medgar Evers College Archives | U-Matic | 10 | <a href="https://archive.org/details/@mec_archives">Medgar Evers College</a>
 
 ## <a name="plan">Project Plan</a>  
 
