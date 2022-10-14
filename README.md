@@ -6,13 +6,13 @@
 
 <hr>
 
-:zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: :vhs: 
- 
- <p>As of 07/06/2022: 789 assets digitized (867 tapes); 594 assets uploaded </p>
+:zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: 
+
+ <p>As of 10/14/2022: 891 tapes digitized; 646 assets captioned and uploaded </p>
 
 ## <a name="about"> Project Overview </a>
 
-"Uncovering CUNY's Audiovisual Heritage" aims to digitize, preserve, caption, and make accessible nearly 1300 public television programs found in archival collections across the CUNY network. 
+"Uncovering CUNY's Audiovisual Heritage" aims to digitize, preserve, caption, and make accessible nearly 1300 public television programs found in archival collections across the CUNY network. The project began in September of 2020 and finished in November of 2022. 
 
 Funding for project was awarded by the _Digitizing Hidden Special Collections and Archives: Enabling New Scholarship through Increasing Access to Unique Materials_, a national grant competition administered by the Council on Library and Information Resources (CLIR). The initial proposal can be accessed as an [appendix](#app). 
 
@@ -27,14 +27,13 @@ The City University of New York (CUNY) is the largest university network in the 
 | ----------- | ----------- | ------- | ----------- | ----- 
 | [Baruch College](2-Collections/BaruchCollegeSpecials/baruch.pdf) | Baruch College Special | U-matic, Betacam SP, DVCam | 214 | <a href="https://www.youtube.com/playlist?list=PLRqOW3sjwjhO296DyaxZlyIFSTSMh-w_g">Youtube.Com</a>
 | [Baruch College](2-Collections/BronxCommunityCollege/baruchcc.pdf) | City Club | U-matic, Betacam SP, DVCam | 240 | <a href="https://www.youtube.com/playlist?list=PLRqOW3sjwjhO2HE03E3YRU3BPPdNXjbCN">Youtube.Com</a><br><a href="https://archive.org/search.php?query=subject%3A%22City+Club+of+New+York+Friday+Forum%22&sort=titleSorter">Archive.Org</a>
-| [John Jay College](2-Collections/CriminalJusticeCU/johnjay.pdf) | Criminal Justice CloseUp | U-matic, Betacam SP, VHS | 180 
+| [John Jay College](2-Collections/CriminalJusticeCU/johnjay.pdf) | Criminal Justice CloseUp | U-matic, Betacam SP, VHS | 180 | Moved to next phase
 | [Centro de Estudios Puertoriqueños at Hunter College](2-Collections/CentroHunter/hunter.pdf)| HoMoVisiones | VHS | 283 | <a href="https://archive.org/details/homovisiones">Archive.Org</a>
 | [Centro de Estudios Puertoriqueños at Hunter College](2-Collections/CentroHunter/hunter.pdf) | Politics con Sabor | MiniDV | 108  
 | [Centro de Estudios Puertoriqueños at Hunter College](2-Collections/CentroHunter/hunter.pdf)| Centro Records | VHS | 63 
 | [College of Staten Island](2-Collections/CinemaThenCinemaNow/staten.pdf) | Cinema Then, Cinema Now | U-matic, Betacam SP | 160 | <a href="https://www.youtube.com/playlist?list=PLRqOW3sjwjhPFrX88ARrTYd7axdxPdipJ">Youtube.Com</a><br><a href="https://archive.org/details/@cuny_tv?and%5B%5D=subject%3A%22Cinema+Then+Cinema+Now%22&sort=titleSorter">Archive.Org</a>
 | [Bronx Community College](2-Collections/BronxCommunityCollege/bronx.pdf) | Hall of Fame for Great Americans | VHS, 1/4" audio magnetic tape | 30 
 | [Medgar Evers College](2-Collections/MedgarEversCollege/mec.pdf) | Medgar Evers College Archives | U-Matic | 10 
-|||Total|1288
 
 ## <a name="plan">Project Plan</a>  
 
@@ -43,10 +42,6 @@ The City University of New York (CUNY) is the largest university network in the 
 The Gantt chart below visualizes the 18 month timeline (9/1/2020 - 2/28/2022). Collections will be completed self-contained cycles comprised of such tasks as cataloging, digitization, ingest, captioning, and public access. The length of time estimated is informed by the number of tapes in the collection. Outreach efforts will officially begin February 2021 after the first cycle is complete and will be engaged on a weekly basis via social media, press releases, newsletters, listervs, blog posts, and person-to-person contact. The timeline also indicates semesters where a student intern will assist the efforts. 
 
 <img src="1-Project/cuny_clir_plan_10.06.2020.png" width="100%" height="100%">
-
-### Workflows and Guidelines
-
-Documentation on captioning, digitization, access, and outreach will be posted here as they are available.
 
 ## <a name="month">Monthly Reports</a>
 
@@ -58,9 +53,10 @@ _CUNY TV_ <p>
 Kelly Haydon, Project Manager<br>
 David Rice, Director of Archives<br>
 Catriona Schlosser, Archivist<br>
-Eric Silberberg, Intern (Spring 2021)<br>
-Aida Garrido, Intern (Summer 2021)<br>
-Liza Kastrilevich, Intern (Fall 2022)
+Eric Silberberg, Graduate Intern (Spring 2021)<br>
+Aida Garrido, Graduate Intern (Summer 2021)<br>
+Liza Kastrilevich, Graduate Intern (Spring 2022)
+Brian Dunbar, Graduate Intern (Fall 2022)
 </p>
 <p>
 
