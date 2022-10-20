@@ -39,13 +39,13 @@ The City University of New York (CUNY) is the largest university network in the 
 
 ### Timeline
 
-The Gantt chart below visualizes the 18 month timeline (9/1/2020 - 2/28/2022). Collections will be completed self-contained cycles comprised of such tasks as cataloging, digitization, ingest, captioning, and public access. The length of time estimated is informed by the number of tapes in the collection. Outreach efforts will officially begin February 2021 after the first cycle is complete and will be engaged on a weekly basis via social media, press releases, newsletters, listervs, blog posts, and person-to-person contact. The timeline also indicates semesters where a student intern will assist the efforts. 
+The Gantt chart below visualizes the original plan for an 18 month timeline (9/1/2020 - 2/28/2022). Collections were completed self-contained cycles comprised of such tasks as cataloging, digitization, ingest, captioning, and public access. The length of time estimated is informed by the number of tapes in the collection. The timeline also indicates semesters where a student intern will assist the efforts. 
 
 <img src="1-Project/cuny_clir_plan_10.06.2020.png" width="100%" height="100%">
 
-## <a name="month">Year 1 Monthly Reports</a>
+## <a name="month">Monthly Reports (Year 1)</a>
 
-<a href="/MonthlyReports/2020Sept.pdf">September 2020</a> | <a href="/MonthlyReports/2020Oct.pdf">October 2020</a> | <a href="/MonthlyReports/2020Nov.pdf">November 2020</a> | <a href="/MonthlyReports/2020Dec.pdf">Decemeber 2020, January 2021</a> | <a href="/MonthlyReports/2021Feb.pdf">February 2021</a> | <a href="/MonthlyReports/2021March.pdf">March 2021</a> | <a href="/MonthlyReports/2021Apr.pdf">April 2021</a> | <a href="/MonthlyReports/2021May.pdf">May 2021</a> | <a href="/MonthlyReports/2021June.pdf">June 2021</a> | <a href="/MonthlyReports/2021July.pdf">July 2021</a> | <a href="/MonthlyReports/2021Aug.pdf">August 2021</a> | <a href="/MonthlyReports/2021Sept.pdf">September 2021</a> | <a href="/MonthlyReports/2021Oct.pdf">October 2021</a> | <a href="/MonthlyReports/2021Nov.pdf">November 2021 | <a href="/MonthlyReports/2021Dec.pdf">December 2021
+<a href="1-Project/MonthlyReports/2020Sept.pdf">September 2020</a> | <a href="1-Project/MonthlyReports/2020Oct.pdf">October 2020</a> | <a href="1-Project/MonthlyReports/2020Nov.pdf">November 2020</a> | <a href="1-Project/MonthlyReports/2020Dec.pdf">Decemeber 2020, January 2021</a> | <a href="1-Project/MonthlyReports/2021Feb.pdf">February 2021</a> | <a href="1-Project/MonthlyReports/2021March.pdf">March 2021</a> | <a href="1-Project/MonthlyReports/2021Apr.pdf">April 2021</a> | <a href="1-Project/MonthlyReports/2021May.pdf">May 2021</a> | <a href="1-Project/MonthlyReports/2021June.pdf">June 2021</a> | <a href="1-Project/MonthlyReports/2021July.pdf">July 2021</a> | <a href="1-Project/MonthlyReports/2021Aug.pdf">August 2021</a> | <a href="1-Project/MonthlyReports/2021Sept.pdf">September 2021</a>
 
 ## <a name="cred">Credits </a>
 
