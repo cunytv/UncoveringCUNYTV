@@ -84,4 +84,4 @@ Tom Gubernat, Media Archive Technician, Charles Evans Inniss Memorial Library, M
  
  <hr>
 
-*When a cassette tapes turns into a lightning bolt, 32 tapes have been digitized. "Captioned" can mean either auto-captioned or manual review by a human. Stats are pulled from the CLIR TRANSFER LOG in Airtable: https://airtable.com/appx1LX5xKBtLqJk9/tblKFLZDSaayGTzuB/viwbgcK68SbHSqnAw?blocks=hide
+*When a cassette tapes turns into a lightning bolt, 32 tapes have been digitized. "Captioned" can mean either auto-captioned or manual review by a human. 
