@@ -33,7 +33,7 @@ The City University of New York (CUNY) is the largest university network in the 
 | [Centro de Estudios Puertoriqueños at Hunter College](2-Collections/CentroHunter/hunter.pdf)| Centro Records | VHS | 63 | <a href ="https://centropr-archive.hunter.cuny.edu/collections/collection-descriptions-C">Request from Centro</a>
 | [College of Staten Island](2-Collections/CinemaThenCinemaNow/staten.pdf) | Cinema Then, Cinema Now | U-matic, Betacam SP | 160 | <a href="https://www.youtube.com/playlist?list=PLRqOW3sjwjhPFrX88ARrTYd7axdxPdipJ">Youtube.Com</a><br><a href="https://archive.org/details/@cuny_tv?and%5B%5D=subject%3A%22Cinema+Then+Cinema+Now%22&sort=titleSorter">Archive.Org</a>
 | [Bronx Community College](2-Collections/BronxCommunityCollege/bronx.pdf) | Hall of Fame for Great Americans | VHS, 1/4" audio magnetic tape | 30 | <a href="https://www.dropbox.com/s/rxwduf2bveghczh/Hall%20of%20Fame%20for%20Great%20Americans%20collection%201894-2008.pdf">Request from Bronx Community College</a>
-| [Medgar Evers College](2-Collections/MedgarEversCollege/mec.pdf) | Medgar Evers College Archives | U-Matic | 10 | <a href="https://archive.org/details/@mec_archives">Medgar Evers College</a>
+| [Medgar Evers College](2-Collections/MedgarEversCollege/mec.pdf) | Medgar Evers College Archives | U-Matic | 10 | <a href="https://archive.org/details/@mec_archives">Archive.Org</a>
 
 ## <a name="plan">Project Plan</a>  
 
@@ -43,7 +43,7 @@ The Gantt chart below visualizes the 18 month timeline (9/1/2020 - 2/28/2022). C
 
 <img src="1-Project/cuny_clir_plan_10.06.2020.png" width="100%" height="100%">
 
-## <a name="month">Monthly Reports</a>
+## <a name="month">Year 1 Monthly Reports</a>
 
 <a href="/MonthlyReports/2020Sept.pdf">September 2020</a> | <a href="/MonthlyReports/2020Oct.pdf">October 2020</a> | <a href="/MonthlyReports/2020Nov.pdf">November 2020</a> | <a href="/MonthlyReports/2020Dec.pdf">Decemeber 2020, January 2021</a> | <a href="/MonthlyReports/2021Feb.pdf">February 2021</a> | <a href="/MonthlyReports/2021March.pdf">March 2021</a> | <a href="/MonthlyReports/2021Apr.pdf">April 2021</a> | <a href="/MonthlyReports/2021May.pdf">May 2021</a> | <a href="/MonthlyReports/2021June.pdf">June 2021</a> | <a href="/MonthlyReports/2021July.pdf">July 2021</a> | <a href="/MonthlyReports/2021Aug.pdf">August 2021</a> | <a href="/MonthlyReports/2021Sept.pdf">September 2021</a> | <a href="/MonthlyReports/2021Oct.pdf">October 2021</a> | <a href="/MonthlyReports/2021Nov.pdf">November 2021 | <a href="/MonthlyReports/2021Dec.pdf">December 2021
 
@@ -55,7 +55,7 @@ David Rice, Director of Archives<br>
 Catriona Schlosser, Archivist<br>
 Eric Silberberg, Graduate Intern (Spring 2021)<br>
 Aida Garrido, Graduate Intern (Summer 2021)<br>
-Liza Kastrilevich, Graduate Intern (Spring 2022)
+Liza Kastrilevich, Graduate Intern (Spring 2022)<br>
 Brian Dunbar, Graduate Intern (Fall 2022)
 </p>
 <p>
@@ -84,4 +84,4 @@ Tom Gubernat, Media Archive Technician, Charles Evans Inniss Memorial Library, M
  
  <hr>
 
-*When a cassette tapes turns into a lightning bolt, 32 tapes have been digitized. "Caption corrected" means auto-captioned subrip files were manually reviewed and corrected by a human. Stats are pulled from the CLIR TRANSFER LOG in Airtable: https://airtable.com/appx1LX5xKBtLqJk9/tblKFLZDSaayGTzuB/viwbgcK68SbHSqnAw?blocks=hide
+*When a cassette tapes turns into a lightning bolt, 32 tapes have been digitized. "Captioned" can mean either auto-captioned or manual review by a human. Stats are pulled from the CLIR TRANSFER LOG in Airtable: https://airtable.com/appx1LX5xKBtLqJk9/tblKFLZDSaayGTzuB/viwbgcK68SbHSqnAw?blocks=hide
