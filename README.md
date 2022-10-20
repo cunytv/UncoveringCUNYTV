@@ -53,6 +53,7 @@ _CUNY TV_ <p>
 Kelly Haydon, Project Manager<br>
 David Rice, Director of Archives<br>
 Catriona Schlosser, Archivist<br>
+Michael "Flip" DiFillipio, Engineer <br> 
 Eric Silberberg, Graduate Intern (Spring 2021)<br>
 Aida Garrido, Graduate Intern (Summer 2021)<br>
 Liza Kastrilevich, Graduate Intern (Spring 2022)<br>
