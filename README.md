@@ -23,17 +23,17 @@ The project can also be followed on [Twitter](https://twitter.com/hashtag/uncove
 The City University of New York (CUNY) is the largest university network in the country with over two dozen schools in every one of New York City's five boroughs. The chart below lists the five the schools partnering with this project, and public television collections they manage. Each collection is comprised of a series that aired between the 1980s and early 2000s, but only available on an obsolete videotape(or audiotape) format. Collectively, the content tells the story of New York City as it grapples with public policy and social justice in a delicate era just before, and just after, 9/11. Clicking through each institution will reveal a one-page description of the collections in their care. 
 
 
-| Institution | Collection | Formats | # of Tapes | Streaming 
+| Institution | Collection | Formats | # of Tapes Digitized| Streaming 
 | ----------- | ----------- | ------- | ----------- | ----- 
-| [Baruch College](2-Collections/BaruchCollegeSpecials/baruch.pdf) | Baruch College Special | U-matic, Betacam SP, DVCam | 214 | <a href="https://www.youtube.com/playlist?list=PLRqOW3sjwjhO296DyaxZlyIFSTSMh-w_g">Youtube.Com</a>
-| [Baruch College](2-Collections/BronxCommunityCollege/baruchcc.pdf) | City Club | U-matic, Betacam SP, DVCam | 240 | <a href="https://www.youtube.com/playlist?list=PLRqOW3sjwjhO2HE03E3YRU3BPPdNXjbCN">Youtube.Com</a><br><a href="https://archive.org/search.php?query=subject%3A%22City+Club+of+New+York+Friday+Forum%22&sort=titleSorter">Archive.Org</a>
-| [John Jay College](2-Collections/CriminalJusticeCU/johnjay.pdf) | Criminal Justice CloseUp | U-matic, Betacam SP, VHS | 180 | Moved to next phase
-| [Centro de Estudios Puertoriqueños at Hunter College](2-Collections/CentroHunter/hunter.pdf)| HoMoVisiones | VHS | 283 | <a href="https://archive.org/details/homovisiones">Archive.Org</a>
+| [Baruch College](2-Collections/BaruchCollegeSpecials/baruch.pdf) | Baruch College Special | U-matic, Betacam SP, DVCam | 175 | <a href="https://www.youtube.com/playlist?list=PLRqOW3sjwjhO296DyaxZlyIFSTSMh-w_g">Youtube.Com</a>
+| [Baruch College](2-Collections/BronxCommunityCollege/baruchcc.pdf) | City Club | U-matic, Betacam SP, DVCam | 171 | <a href="https://www.youtube.com/playlist?list=PLRqOW3sjwjhO2HE03E3YRU3BPPdNXjbCN">Youtube.Com</a><br><a href="https://archive.org/search.php?query=subject%3A%22City+Club+of+New+York+Friday+Forum%22&sort=titleSorter">Archive.Org</a>
+| [Centro de Estudios Puertoriqueños at Hunter College](2-Collections/CentroHunter/hunter.pdf)| HoMoVisiones | VHS | 168 | <a href="https://archive.org/details/homovisiones">Archive.Org</a>
 | [Centro de Estudios Puertoriqueños at Hunter College](2-Collections/CentroHunter/hunter.pdf) | Politics con Sabor | MiniDV | 108 | <a href="https://centropr-archive.hunter.cuny.edu/collections/collection-descriptions-O-P">Request from Centro</a>  
-| [Centro de Estudios Puertoriqueños at Hunter College](2-Collections/CentroHunter/hunter.pdf)| Centro Records | VHS | 63 | <a href ="https://centropr-archive.hunter.cuny.edu/collections/collection-descriptions-C">Request from Centro</a>
-| [College of Staten Island](2-Collections/CinemaThenCinemaNow/staten.pdf) | Cinema Then, Cinema Now | U-matic, Betacam SP | 160 | <a href="https://www.youtube.com/playlist?list=PLRqOW3sjwjhPFrX88ARrTYd7axdxPdipJ">Youtube.Com</a><br><a href="https://archive.org/details/@cuny_tv?and%5B%5D=subject%3A%22Cinema+Then+Cinema+Now%22&sort=titleSorter">Archive.Org</a>
-| [Bronx Community College](2-Collections/BronxCommunityCollege/bronx.pdf) | Hall of Fame for Great Americans | VHS, 1/4" audio magnetic tape | 30 | <a href="https://www.dropbox.com/s/rxwduf2bveghczh/Hall%20of%20Fame%20for%20Great%20Americans%20collection%201894-2008.pdf">Request from Bronx Community College</a>
-| [Medgar Evers College](2-Collections/MedgarEversCollege/mec.pdf) | Medgar Evers College Archives | U-Matic | 10 | <a href="https://archive.org/details/@mec_archives">Archive.Org</a>
+| [Centro de Estudios Puertoriqueños at Hunter College](2-Collections/CentroHunter/hunter.pdf)| Centro Records | VHS | 65 | <a href ="https://centropr-archive.hunter.cuny.edu/collections/collection-descriptions-C">Request from Centro</a>
+| [College of Staten Island](2-Collections/CinemaThenCinemaNow/staten.pdf) | Cinema Then, Cinema Now | U-matic, Betacam SP | 166 | <a href="https://www.youtube.com/playlist?list=PLRqOW3sjwjhPFrX88ARrTYd7axdxPdipJ">Youtube.Com</a><br><a href="https://archive.org/details/@cuny_tv?and%5B%5D=subject%3A%22Cinema+Then+Cinema+Now%22&sort=titleSorter">Archive.Org</a>
+| [Bronx Community College](2-Collections/BronxCommunityCollege/bronx.pdf) | Hall of Fame for Great Americans | VHS, 1/4" audio magnetic tape | 25 | <a href="https://www.dropbox.com/s/rxwduf2bveghczh/Hall%20of%20Fame%20for%20Great%20Americans%20collection%201894-2008.pdf">Request from Bronx Community College</a>
+| [Medgar Evers College](2-Collections/MedgarEversCollege/mec.pdf) | Medgar Evers College Archives | U-Matic | 13 | <a href="https://archive.org/details/@mec_archives">Archive.Org</a>
+| | | Total | 891
 
 ## <a name="plan">Project Plan</a>  
 
@@ -68,7 +68,6 @@ Arthur Downing, Vice President for Information Services and Dean of the Library 
 Cynthia Tobar, Assistant Professor/Head of Archives, Bronx Community College<br>
 Lindsay Wittwer, Digital Archivist, Centro de Estudios Puertoriqueños at Hunter College<br>
 Jerry Carlson, Host of _Cinema Then, Cinema Now_ and <br>
-Ellen Belcher, Associate Professor and Special Collections Librarian, John Jay College<br>
 Tom Gubernat, Media Archive Technician, Charles Evans Inniss Memorial Library, Medgar Evers College
 <p>
  
