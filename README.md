@@ -12,7 +12,7 @@
 
 ## <a name="about"> Project Overview </a>
 
-"Uncovering CUNY's Audiovisual Heritage" aims to digitize, preserve, caption, and make accessible nearly 1300 public television programs found in archival collections across the CUNY network. The project began in September of 2020 and finished in November of 2022. 
+"Uncovering CUNY's Audiovisual Heritage" aims to digitize, preserve, caption, and make accessible over 1,000 unique assets found in archival collections across the CUNY network. Roughly three quarters of the assets are from cable access programs that aired in New York City between 1985 and 2009. The project began in September of 2020 and finished in November of 2022. 
 
 Funding for project was awarded by the _Digitizing Hidden Special Collections and Archives: Enabling New Scholarship through Increasing Access to Unique Materials_, a national grant competition administered by the Council on Library and Information Resources (CLIR). The initial proposal can be accessed as an [appendix](#app). 
 
